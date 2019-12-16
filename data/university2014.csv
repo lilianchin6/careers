@@ -1,0 +1,351 @@
+year,workauthorization,country,gender,degree,college,department,major,graddate,status,employer.school,jobtitle.gradprogram,city,state.country,graddegree,useful,dateoffered,dateaccepted,jobfunction,employerindustry,numoffers
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,G,Carnegie Mellon University,Civil Engineering - AIS,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,G,Carnegie Mellon University,Civil and Environmental Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,G,Ohio State University,Food Science,NA,NA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,F13,G,Carnegie Mellon University,Civil and Environmental Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,G,University of Mississippi,Medical School,Oxford,MS,MD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,University of Pittsburgh,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Business,Pittsburgh,PA,MBA,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,F13,G,Carnegie Mellon University,ETIM,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,G,Carnegie Mellon University,Chemical Engineering,Pittsburgh,PA,MChE,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,John Carroll University,Woodrow Wilson Teaching Fellowship,Cleveland,OH,MS,,,,,,NA
+2014,Non-US Citizen,India,Female,BS,CIT,Chemical Engineering,CHE,S14,G,Carnegie Mellon University,Energy Science Technology & Policy,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,F13,G,Carnegie Mellon University,Civil and Environmental Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,G,Carnegie Mellon University,Environmental Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,United Kingdom,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Master of Integrated Innovation for Products and Services,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CEE,S14,G,Carnegie Mellon University,Environmental Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,Other,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,G,Carnegie Mellon University,Civil and Environmental Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Malaysia,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,F13,G,Carnegie Mellon University,Civil Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Female,BS,CIT,Chemical Engineering,CHE,S14,G,Carnegie Mellon University,Master of Information Systems Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,Networking,,,,,NA
+2014,U.S. Citizen,Other,Female,BS,CIT,Chemical Engineering,CHE,S14,G,University of Cambridge,Advanced Chemical Engineering,Cambridge,UK,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Thailand,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,Sheffield Hallam University,Sports Engineering,Sheffield,UK,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Korea,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,University of Virginia,Biomedical Engineering,Charlottesville,VA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,MCS,SHS,BSC,S14,G,Ohio State University,Medical School,Columbus,OH,MD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,SHS,PHY,S14,G,University of Michigan,Biophysics,Ann Arbor,MI,PhD,,,,,,NA
+2014,Permanent Resident,United States,Female,BFA,CFA,Design,COMDES,S14,E,Carnegie Mellon University,HCI Research Assistant,Pittsburgh,PA,,,,,,education,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Art,ART,S14,E,Carnegie Mellon University,Professor's Assistant - Animation Project,Pittsburgh,PA,,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Music,Flute,S14,E,Carnegie Mellon University,Music Theory Teacher,Pittsburgh,PA,,,,,Teacher,education,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,COMDES,S14,G,Carnegie Mellon University,HCI,Pittsburgh,PA,,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CFA,Architecture,ARC,S14,G,Carnegie Mellon University,Tangible Interaction Design,Pittsburgh,PA,Master,,,,,,NA
+2014,Non-US Citizen,Korea,Female,BFA,CFA,Architecture,ARC,S14,G,Columbia University,Premed Postbac,New York,NY,Post Baccalaureate,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,G,Carnegie Mellon University,Tangible Interaction Design,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Art,ART,S14,G,Carnegie Mellon University,Human Computer Interaction,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Music,Voice,S14,G,Carnegie Mellon University,Advanced Music Studies - Performance (Voice),Pittsburgh,PA,Certificate,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,CFA,Architecture,ARC,S14,G,University of Virginia,Landscape Architecture,Charlottesville,VA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,F13,G,Carnegie Mellon University,Sustainable Design,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,G,Whitman University,Business Administration,Syracuse,NY,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,G,University of Pennsylvania,Architecture and Urban Planning,Philadelphia,PA,Master (2),,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Art,HSSART,S14,G,Carnegie Mellon University,Professional Writing,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Music,Piano,S14,G,Stoney Brook University School of Medicine,Medicine,Stony Brook,NY,MD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,G,Carnegie Mellon University,Civil Engineering,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,TWCM,S14,E,Yale University,IT Knowledge and Organizational Management Intern,New Haven,CT,,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,COGSCI,S14,E,Carnegie Mellon University,User Experience Researcher,Pittsburgh,PA,,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,History,HIS,S14,E,Duquesne University,Marketing Manager- University Press,Pittsburgh,PA,,,,,Marketing,education,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,E,Carnegie Mellon University,Lab Manager,Pittsburgh,PA,,,,,Researcher,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S14,G,University of Michigan,Economics,NA,NA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,CW,S14,G,Carnegie Mellon University,Professional Writing,Pittsburgh,PA,MA,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,G,Columbia University,School of Nursing BS/MS,New York,NY,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,PW,S14,G,Carnegie Mellon University,Professional Writing,Pittsburgh,PA,MA,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,CW,S14,G,Pennsylvania State University,English,State College,PA,MA,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Philosophy,EHPP,S14,G,Carnegie Mellon University,Public Policy & Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,G,Carnegie Mellon University,HCI,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,POLMGMT,S14,G,Carnegie Mellon University,Health Care Policy Mangt,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S14,G,Carnegie Mellon University,Professional Writing,NA,NA,MPW,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,G,Argosy University,Clinical Psychology,Great Falls,VA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,INTRELP,S14,G,Carnegie Mellon University,Public Policy & Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Philosophy,EHPP,S14,G,Pennsylvania State University,Law School,University Park,PA,JD,,,,,,NA
+2014,Non-US Citizen,Taiwan,Female,BS,Dietrich,Statistics,ECOSTA,S14,G,University of Illinois at Urbanaâ€“Champaign,Accounting,Urbana Champaign,IL,MSA,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,F13,G,Our Lady of the Lake University,Speech & Language Pathology ,Austin,TX,Post-Bac Leveling Program,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Philosophy,EHPP,S14,G,Carnegie Mellon University,Arts Management,Pittsburgh,PA,MA,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,G,University of Pittsburgh,Masters of Nutrition & Dietetics,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,POLMGMT,S14,G,Carnegie Mellon University,Human Computer Interaction,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,G,Carnegie Mellon University,Information Systems,Pittsburgh,PA,MS,,,,,,NA
+2014,NA,NA,Female,BS,Dietrich,Statistics,STA,S14,G,Carnegie Mellon University,Statistical Practice,Pittsburgh,PA,MSP,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,E,University of Pittsburgh,Research Assistant,Pittsburgh,PA,,,,,Research,education,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,E,Carnegie Mellon University,Research Associate 1,Pittsburgh,PA,,Networking,41794,41794,Research,education,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,E,Carnegie Mellon University,Research Assistant,Pittsburgh,PA,,,,,Research,education,NA
+2014,Non-US Citizen,India,Female,BS,MCS,Biological Sciences,BSC,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,G,Carnegie Mellon University,Health Care Policy and Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,G,University of Massachusetts Amherst,Chemistry,Amherst,MA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,G,University of Pittsburgh,Interdisciplinary Biomedical Graduate Program,Pittsburgh,PA,PhD,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,MCS,Chemistry,CMY,F13,G,New York University,Dental School,New York,NY,DDS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,G,University of Wisconsin,Biochemistry,Madison,WI,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Physics,PHYAP,S14,G,Louisiana State University,Physics,Baton Rouge,LA,PhD,Networking,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCM,S14,G,Carnegie Mellon University,Statistics,Pittsburgh,PA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,G,Carnegie Mellon University,Health Care Policy and Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,G,Ohio State University,Medical School,Columbus,OH,MD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S13,G,University College London,Biomedical Sciences,NA,NA,MS,,,,,,NA
+2014,U.S. Citizen,Korea,Female,BS,MCS,Chemistry,CMY,S14,G,Temple University School of Medicine,Dental School,Philadelphia,PA,DMD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCM,S14,G,University of Illinois at Urbanaâ€“Champaign,Mathematics  ,Champaign,IL,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSCNSC,S14,G,Carnegie Mellon University,Health Care Policy and Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Physics,PHY,S14,G,Southern Methodist University,High Energy Particle Physics,Dallas,TX,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCSTA,S14,G,University of North Carolina,Biostatistics,Chapel Hill,NC,PhD,,,,,,NA
+2014,Permanent Resident,United States,Female,BS,MCS,Biological Sciences,BSCPSY,F13,G,Touro University,Medical School,San Francisco,CA,DO,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSCPSY,S14,G,Colorado University School of Medicine,Medical School,NA,CO,MD,,,,,,NA
+2014,Non-US Citizen,Korea,Female,BS,MCS,Chemistry,CMY,S13,G,Oregon State University,Nuclear Chemistry,Corvalis,OR,PhD,,,,,,NA
+2014,Non-US Citizen,India,Female,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Female,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Language Technologies,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Carnegie Mellon University,Materials Engineer & Mechanical Engineer,Pittsburgh,PA,,,,,Engineering: Materials,education,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,F13,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,F13,G,Carnegie Mellon University,Mechanical Engineering,NA,NA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,CIT,Chemical Engineering,CHE,S14,G,Carnegie Mellon University,Computational Biology,NA,NA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Wakeforest University,Business Management,Raleigh,NC,MBA,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,F13,G,Carnegie Mellon University,ESTP,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Master of Integrated Innovation for Products and Services,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Master of Integrated Innovation for Products and Services,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Korea,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,G,Carnegie Mellon University,Chemical Engineering,Pittsburgh,PA,MChE,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,Networking,,,,,NA
+2014,Permanent Resident,Korea,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Stanford University,Management Science and Engineering,Palo Alto,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S13,G,Carnegie Mellon University,Energy Science Technology & Policy,Pittsburgh,PA,MS,,,,Engineering Other,education,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,F13,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Cornell University,Mechanical Engineering,Ithaca,NY,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,F13,G,Carnegie Mellon University,Chemical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,NA,NA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S15,G,Purdue University,Mechanical Engineering,NA,IN,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Korea,Male,BS,CIT,Chemical Engineering,CHE,S14,G,Carnegie Mellon University,Chemical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,G,Northwestern University,Chemical and Biological Engineering,Evanston,IL,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,Networking,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,G,University of Colorado at Boulder,Chemical Engineering,NA,NA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Texas A & M University Health Science Center,Medicine,NA,TX,MD,,,,,,NA
+2014,Permanent Resident,India,Male,BS,CIT,Mechanical Engineering,MEG,F13,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,CIT,Civil & Environmental Engineering,CEE,S14,G,Carnegie Mellon University,ETIM,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,G,Carnegie Mellon University,Civil Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,CIT,Chemical Engineering,CHE,S14,G,Rice University,Chemical Engineering,Houston,TX,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,G,Carnegie Mellon University,Mechanical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Comuter Science finishing second major,Pittsburgh,PA,BS,,,,,,NA
+2014,Non-US Citizen,Other,Male,BS,CIT,Materials Science,MSE,F13,G,Carnegie Mellon University,Materials Science & Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Silicon Valley,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Rwanda,NA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Thailand,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Mountain View,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,Malaysia,Male,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Canada,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,PhD,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Johns Hopkins University,Electrical Engineering,Baltimore,MD,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Canada,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Materials Science,MSE,NA,G,University of Chicago,Material Science and Engineering,Chicago,IL,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,New Zealand,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Korea,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,G,University of New Mexico,Mechanical Engineering,Albuquerque,NM,,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,F13,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,EOC,,,,,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,G,Duke University,Biomedical Engineering,Durham,NC,PhD,,,,,,NA
+2014,U.S. Citizen,Hong Kong,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Other,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Carnegie Mellon University,Electrical & Computer Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,SHS,BSC,F13,G,University of Pennsylvania,Medical School,Philadelphia,PA,MD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Architecture,ARC,S14,G,Carnegie Mellon University,Computational Design,Pittsburgh,PA,Master,,,,,,NA
+2014,NA,NA,Male,BS,CFA,Other,Human Systems (Student Defined Major),S14,G,Carnegie Mellon University,Human Computer Interaction,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Design,COMDES,S14,G,Carnegie Mellon University,Human-Computer Interaction,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Architecture,ARC,S14,G,Carnegie Mellon University,Sustainable Design,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Music,BIOMP,S14,E,University of Pittsburgh,Research Assistant,Pittsburgh,PA,,,,,,education,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Music,Oboe,F13,G,Carnegie Mellon University,Biomedical Engineering,Pittsburgh,PA,Master,,,,,,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Drama,Design - Lighting,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,Doctor,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,G,Carnegie Mellon University,Entertainment Management,NA,NA,MEIM,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAMARK,S14,G,Carnegie Mellon University,Business,NA,NA,MBA,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,SDITED,S14,G,Carnegie Mellon University,Fifth-Year Scholar,NA,NA,,,,,,,NA
+2014,U.S. Citizen,Taiwan,Male,BS,Tepper,Business Administration,BAMARK,S14,G,Carnegie Mellon University,Human Computer Interaction,NA,NA,MHCI,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Carnegie Mellon University,Book Editor & Designer,Pittsburgh,PA,,,,,Publishing,education,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Psychology,PSY,S14,E,University of Pittsburgh,Research Assistant,Pittsburgh,PA,,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,ECOSTA,S14,G,Harvard University,Statistics,Cambridge,MA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,G,Carnegie Mellon University,Public Policy & Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,G,Bentley University,M.S. Business Analytics,Waltham,MA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Psychology,PSY,S14,G,Columbia University,Teachers College,New York,NY,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,G,Carnegie Mellon University,Human Computer Interaction,Pittsburgh,PA,PhD,,,,,,NA
+2014,Permanent Resident,Korea,Male,BS,Dietrich,Statistics,ECOSTA,S14,G,Carnegie Mellon University,Intelligent Information Systems,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,G,Carnegie Mellon University,MISM AMP,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,S13,G,Santa Clara University,Finance,NA,NA,MSF,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,S14,G,University of Pittsburgh,Law,NA,NA,JD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,G,University of Wilmington,Masters of Education,Wilmington,DE,Master,,,,,,NA
+2014,Permanent Resident,United States,Male,BS,Dietrich,Statistics,STA,S14,G,Carnegie Mellon University,Statistics,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,G,Stanford University,Artificial Intelligence,Stanford,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Philosophy,PHI,S14,G,University of Maryland,Law School,College Park,MD,JD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,English,TWCM,S14,G,Johns Hopkins University,Genetic Couseling Training Program,Bethesda,MD,ScM,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F13,G,University of Cincinnati,Medicine,Cincinnati,OH,MD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,STA,S14,G,University of Pittsburgh,Statistics,Pittsburgh,PA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Carnegie Mellon University,Research Associate 1,Pittsburgh,PA,,Networking,41773,41773,Research,education,2
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,SDC,S14,E,Princeton University,Research Specialist,Princeton,NJ,,,,,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CHEM,S14,E,Carnegie Mellon University,Research Assistant,Pittsburgh,PA,,,,,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Psychology,PSYBSC,S14,E,Carnegie Mellon University,Research Assistant,Pittsburgh,PA,,,,,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,Pennsylvania State University,Physics,State College,PA,PhD,,,,,,NA
+2014,U.S. Citizen,Other,Male,BS,MCS,Mathematical Sciences,MSCDML,S14,G,Harvard University,Comp Sci / Algorithmic Game Theory,Cambridge,MA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,BS 2nd degree,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSCPSY,S14,G,Carnegie Mellon University,Health Care Policy and Management,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSC,S14,G,Yale University,Biology,New Haven,CT,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,University of Minnesota,Physics,Minneapolis,MN,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,University of Wisconsin,Physics,Madison,WI,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,F13,G,University of Michigan,Biostatistics,Ann Arbor,MI,Masters,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,Ohio State University,Physics,Columbus,OH,PhD,Networking,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,Temple University School of Medicine,Medicine,Philadelphia,PA,MD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,University of Wisconsin,Physics,Madison,WI,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,G,Duquesne University,Computational Mathematics,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSC,S14,G,University of Michigan,Medicinal Chemistry,Ann Arbor,MI,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,Louisiana State University,Geology and Geophysics,Baton Rouge,LA,PhD,Networking,,,,,NA
+2014,Non-US Citizen,India,Male,BS,MCS,Physics,PHYAP,S13,G,University of Pittsburgh,Information Science,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,G,Pennsylvania State University,Economics,State College,PA,PhD,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,MCS,Mathematical Sciences,MSC,S14,G,University of Minnesota,Applied Economics,Minneapolis,MN,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,University of Chicago,Geophysical Sciences,Chicago,IL,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,S14,G,Carnegie Mellon University,Computational Finance,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,University of Chicago,Astrophysics,Chicago,IL,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,Michigan State University,Physics,East Lansing,MI,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSC,S14,G,University of Michigan,Conservation Ecology,Ann Arbor,MI,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,San Diego State University,Physics,San Diego,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,G,University of North Carolina,Chemistry,Chapel Hill,NC,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,COMPFIN,S14,G,University of Texas at Austin,Mathematics (Stochastic Analysis),Austin,TX,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,G,Duquesne University,Environmental Science and Management,Pittsburgh,PA,MS,,,,,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,Carnegie Mellon University,Robotics,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSC,S14,G,Wakeforest University,Post-bacc Research Education Program,Winston-Salem,NC,Post-bacc,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,G,Carnegie Mellon University,Statistical Practice,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,G,Northwestern University,Chemistry,Evanstan,IL,PhD,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,MCS,Mathematical Sciences,MSCDML,S14,G,Carnegie Mellon University,Computational Finance,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,New Zealand,Male,BS,MCS,Mathematical Sciences,MSCCAM,S14,G,Carnegie Mellon University,Computational Finance,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Robotics,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Chemical Engineering,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,5th Year,Pittsburgh,PA,MS,Job Fair,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Singapore,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Korea,Male,BS,SCS,Computer Science,CS,F13,G,Yonsei University,Medicine,Seoul,South Korea,,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,University of California,Computer Science,Santa Barbara,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Cornell University,Computer Science,Ithaca,NY,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,,,,,,NA
+2014,Non-US Citizen,Other,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Statistics and Machine Learning,Pittsburgh,PA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,G,Carnegie Mellon University,Business Administration (dual degree),Pittsburgh,PA,BS,,,,,,NA
+2014,Non-US Citizen,India,Male,BS,SCS,Computer Science,CS,S14,G,Carnegie Mellon University,Computer Science,Pittsburgh,PA,MS,Job Fair,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,G,University of Washington,Computer Science,Seattle,WA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,G,UC Berkeley,Mechanical Engineering,Berkeley,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,UC San Diego,Material Science,San Diego,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,G,UC Irvine,Mechanical Engineering,Irvine,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Art,BIOART,S14,E,UCLA,,Los Angeles,CA,,,,,,consumer products,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,E,UCLA,Research Assistant - Intergrated Substance Abuse Program,Los Angeles,CA,,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,G,UCLA,Doctorate of Health Pyschology,Los Angeles,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,G,UC San Diego,Bioengineering,San Diego,CA,MS,,,,,,NA
+2014,Non-US Citizen,Canada,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,UC Berkeley,Engineering and Computer Science,Berkeley,CA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,UCLA,Astronomy,Los Angeles,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,UC Irvine,Applied Math,Irvine,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSCNSC,S14,G,UC Irvine,Cognitive Sciences Program,Irvine,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,G,UC Irvine,Material Science and Engineering,Irvine,CA,PhD,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Music,Voice,S14,G,Mannes College The New School for Music,Vocal Performance,New York,NY,Master,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,INDDES,S14,G,Savannah College of Art and Design,Accessory Design,Savannah,GA,MS,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Music,Voice,S14,G,Mannes College The New School for Music,Vocal Performance,New York,NY,Master,,,,,,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Art,ART,S14,G,Maryland Institute College of Art,Painting,Baltimore,MD,Master,,,,,,NA
+2014,Non-US Citizen,Korea,Male,BS,Dietrich,Statistics,ECOSTA,S14,E,Heinz College,Global Data Analyst,Pittsburgh,PA,,,41740,41743,Analyst: Data,consumer products,2
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSC,S14,E,Medical College of Wisconsin,Research Technologist,Milwaukee,WI,,,,,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,G,Massachusetts Institute of Technology,Astronautical and Aeronautical Engineering ,Cambridge,MA,PhD,,,,,,NA
+2014,Non-US Citizen,Korea,Male,BS,Tepper,Business Administration,BAFIN,S14,G,Massachusetts Institute of Technology,Finance,NA,NA,MFin,,,,,,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,G,Massachusetts Institute of Technology,Finance,Cambridge,MA,M. Fin,,,,,,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Music,Voice,F13,G,Manhattan School of Music,Voice,New York,NY,Master,,,,,,NA
+2014,NA,NA,Female,BFA,CFA,Art,Art,S14,G,The Ailey School,Dance,New York,NY,,,,,,,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,G,Icahn School of Medicine at Mount Sinai,Medical School,New York,NY,MD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Denver Public Schools,Denver Math Fellow,Denver,CO,,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Psychology,PSY,S14,G,Robert Wood Johnson Medical School,Biomedical Sciences,New Brunswick,NJ,MS,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,INTRELP,F13,G,NYU Law School,Law School,New York,NY,JD,,,,,,NA
+2014,Non-US Citizen,United Arab Emirates,Male,BS,Dietrich,Social & Decision Sciences,INTRELP,S13,G,BPP Law School,Law,London,UK,JD,,,,,,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Rutgers New Jersey Medical School,Clinical Research  ,Newark,NJ,,,,,Research,education,NA

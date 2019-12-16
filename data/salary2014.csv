@@ -1,0 +1,392 @@
+year,workauthorization,country,gender,degree,college,department,major,graddate,status,jobtitle.gradprogram,city,state.country,graddegree,annualsalary,useful,dateoffered,dateaccepted,jobfunction,employerindustry,numoffers
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,F13,E,Design Engineer,Pittsburgh,PA,,63500,job fair-Pittsburgh Tech Connect,,,Engineering: Mechanical,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Manufacturing Engineer ,New York,PA,,63000,,,,Engineering: Mechanical,pharmaceuticals,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Tooling Design Engineer,Los Angeles,CA,,60000,Hired from summer internship,41487,41518,Engineering: Mechanical,manufacturing,3
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Associate Solutions Analyst,New York,NY,,57960,job fair,,,Analyst Other,technology,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Assurance Engineer,Houston,TX,,100000,networking,41456,41579,Engineering Other,energy,3
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Product Development Engineer,Detroit,MI,,66000,Job Fair,,41609,Engineering: Mechanical,manufacturing,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Associate Engineer,Pittsburgh,PA,,61000,,41640,41640,Engineering Other,engineering,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Flow Assurance Engineer,Pittsburgh,PA,,105600,networking,,,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Crews Training Engineer,Charleston,SC,,61000,TartanTRAK,41548,41548,Engineering: Mechanical,engineering,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Consultant,Pittsburgh,PA,,71500,tartantrak,,,Consulting: Management/Strategy,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Mid-Rotation,Bethlehem,PA,,55200,TartanTRAK/job fair,,,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Environmental Research Associate,Boston,MA,,52000,networking,41730,41760,Research,engineering,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Mechanical Engineer,Baltimore,MD,,68400,Hired from summer internship,41487,Nov- 2-13,Engineering: Mechanical,manufacturing,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Associate Solutions Analyst,New York,NY,,58000,TartanTRAK,41760,41760,Analyst Other,technology,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Engineer,NA,NA,,98000,TartanTRAK,,,Engineering,energy,NA
+2014,Permanent Resident,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Operations Development,Chicago,IL,,64000,Networking,,,Operations,pharmaceuticals,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Engineer,Cincinnati,OH,,55000,Networking& Hired from summer internship,41640,41671,Engineering,engineering,4
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Management Consulting and Strategy Analyst,Pittsburgh,PA,,65000,Job Fair,41334,41365,Consulting Management/Strategy,manufacturing,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Consultant,New York,NY,,84000,TartanTRAK & Hired from summer internship,41548,41579,Consulting: Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Systems Integration Analyst ,Washington,DC,,75000,TartanTRAK,,,Analyst: Business,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Mechanical Engineer,Philadelphia,PA,,54911,internship,,,Engineering: Mechanical,education,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Process Design Engineer,Washington DC,NA,,96000,hired from summer internship,41518,41579,Engineering Other,energy,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Process Automation Engineer,Houston,TX,,70000,TartanTRAK & Hired from summer internship,41487,41518,Engineering Other,manufacturing,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Production Engineer,Pittsburgh,CA,,79000,job fair,41487,41518,Engineering Other,manufacturing,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Reservoir Engineer,Houston,TX,,94933,internship,,,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,FCG ,Dearborn,MI,,67000,"TartanTRAK, Networking & Job Fairs",,,Engineering: Mechanical,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Power Train Engineer,Detroit,MI,,60000,TartanTRAK,41699,41699,Engineering: Mechanical,manufacturing,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Product Development Engineer,New York,PA,,66000,TartanTRAK,41609,41640,Engineering: Mechanical,pharmaceuticals,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Sales Engineer Intern,Windsor Locks,CT,,50000,,,,Engineering Other,energy,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Systems Integration Analyst,Washington DC,NA,,75000,TartanTRAK,,,Analyst Other,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Process Engineer,Victoria,TX,,70608,Internship,,,Engineering Other,manufacturing,NA
+2014,U.S. Citizen,Japan,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Associate,New York,NY,,70000,TartanTRAK,41579,41579,Finance Other,financial services,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Chassis Engineering Development Engineer ,Milford,MI,,69000,,,,Engineering: Mechanical,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Research Assistant,Washington,DC,,47040,,,,Engineering: Materials,consulting,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Office Engineer,Washington,DC,,60000,TartanTRAK,41640,41671,Engineering Other,engineering,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Field Engineer,New York,NY,,57000,Networking & Hired from summer internship,41609,41640,Field Engineering,engineering,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Front End Developer,Pittsburgh,PA,,63000,Networking & Career Consultant,,,Design: Interaction/User Interface/UX Design ,engineering,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Business & Systems Integration Analyst,Pittsburgh,PA,,71496,networking,,,Business Analyst,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Field Engineer,Oklahoma City,OK,,65000,,41579,41640,Field Engineering,engineering,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Assistant Estimator,New York,NY,,54000,TartanTRAK,,,Design/Construction Engineering,engineering,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Consulting Analyst,Pittsburgh,PA,,71496,TartanTRAK,,,Analyst Other,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Field Engineer,Canonsburg,PA,,53532,networking,,,Field Engineering,engineering,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Consultant,New York,NY,,71000,Networking,41730,41760,Consulting Management/Strategy,consulting,5
+2014,Non-US Citizen,India,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Staff,New York,NY,,70000,Networking,41548,41579,Management: Human Resources,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Customer Support Engineer,Long Beach,CA,,75000,Networking,,,Engineering: Project Engineering,manufacturing,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,F13,E,Group Manager,NA,NA,,69000,Networking,41518,41548,Engineering Other,consumer products,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Sales Engineer,Fairfax,VA,,100000,job fair,41579,41579,Engineering Other,energy,4
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Analyst,Houston,TX,MS,96996,internship,,,Analyst Other,energy,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Analyst,New York,NY,,82000,Networking & TartanTRAK,41548,41579,Finance: Financial Analysis,financial services,4
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Business & Systems Integration Analyst,Pittsburgh,PA,,70800,networking,,,Business Analyst,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Transportation Engineer,Harrisburg,PA,,51840,Networking,41671,41671,Engineering Other,transportation,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Gas Operations Engineering Rotation,NA,CA,,69960,networking,,,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Mechanical Engineer,Pittsburgh,PA,,60000,summer internship,,,Engineering: Mechanical,consumer products,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Contact Engineer,Houston,TX,,96996,Job Fair,,,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Technical Analyst,New York,NY,,85000,,,,Engineering: Electrical/Computer,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Field Engineer,Conway,AR,,63000,networking,,,Field Engineering,engineering,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Rotational Program,NA,NA,,64000,Networking,41579,41609,Engineering Other,energy,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Mechanical Engineer,Unknown,NA,,64000,,,,Engineering: Mechanical,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Graduate Engineer,Miami,FL,,60000,networking,,,Engineering,engineering,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Associate Engineer,Hoboken,NJ,,85000,Online Job Listing Site,41671,41699,Engineering,pharmaceuticals,4
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Process Engineer,Midland,MI,,68004,TartanTRAK,,,Engineering Other,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Technial Sales,Vienna,VA,,97000,Job Fair,,,Business Development/Sales,energy,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Research and Development Engineer,NA,NA,,72000,Internship,,,Research and Development Engineering,consumer products,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,F13,E,"Mechanical Engineer, Packaging Development Division",Cincinnati,OH,,72000,summer internship,,,Engineering: Mechanical,consumer products,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Device Engineer,Tyson Corners,VA,,75000,TartanTRAK,,,Engineering: Electrical/Computer,consumer products,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Embedded Software Engineer,Cleveland,OH,,68400,Job Fair,,,Engineering: Electrical/Computer,manufacturing,1
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,San Francisco,CA,,75000,Tartantrak,,,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,Software Engineer,San Francisco,CA,,105000,TartanTrack,,,Engineering: Electrical/Computer,marketing/communications,3
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Business & Systems Integration Analyst,Pittsburgh,PA,,72000,TartanTRAK,,,Engineering: Materials,consulting,1
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Development Engineer,San Francisco,CA,,100000,,,,Engineering: Electrical/Computer,technology,NA
+2014,Non-US Citizen,Other,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Mobile Engineer,Beaverton,OR,,80000,TartanTRAK,41592,41609,Engineering: Electrical/Computer,consumer products,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Research Scientist,Washington,DC,,57000,Networking,,,Engineering: Research & Development,education,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Steel Business Associate-Sales Engineer,Canton,OH,,62400,Job Fair,,,Engineering: Materials,manufacturing,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,New York,NY,,85000,TartanTRAK,41343,41357,Engineering: Electrical/Computer,arts & entertainment,8
+2014,U.S. Citizen,Taiwan,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Rotational Software Engineer,Cupertino,CA,,95000,,,,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,Consultant,New York,NY,,72000,,,,Analyst: Business,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,San Francisco,CA,,105000,Networking,,,Engineering: Electrical/Computer,transportation,4
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Development Engineer,Seattle,WA,,90000,TartanTRAK,,,Engineering: Electrical/Computer,retail,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,CAD Research Intern,Hillsboro,OR,,65000,"Netowrking, Hired from intership",,,Research and Development,technology,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Application Engineer,Boston,MA,,75000,Networking,,,Engineering: Electrical/Computer,manufacturing,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,Mountain View,CA,,100000,Hired from internship Experience,,,Engineering: Electrical/Computer,technology,1
+2014,Non-US Citizen,Korea,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Technology Analyst,New York,NY,,85000,TartanTRAK,,,Engineering: Electrical/Computer,financial services,3
+2014,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Patent Examiner,Arlington,VA,,68400,On-line Job site,,,Engineering: Quality Control,education,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,Management Consultant,New York,NY,,65000,Job Fair,,,Engineering: Materials,consulting,2
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,McLean,VA,,85000,TartanTRAK,,,Engineering: Electrical/Computer,consulting,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,F13,E,Process Engineer,Pittsburgh,PA,,70000,Networking,,,Engineering: Materials,manufacturing,4
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,Software Development Engineer,Seattle,WA,,90000,Job Fair,,,Engineering: Electrical/Computer,retail,2
+2014,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,Redwood City,CA,,100000,Job Fair,,,Engineering: Electrical/Computer,technology,3
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Developer,Pittsburgh,PA,,76665,Hired from Internship,,,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,Pittsburgh,PA,,95000,,,,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Avionics Integration Engineer,Hermosa Beach,CA,,78000,,,,Engineering: Electrical/Computer,transportation,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Field Engineer,Cheyenne,WY,,60000,Job Fair,,,Engineering: Field Engineering,energy,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Core Software Developer,Chicago,IL,,75000,On line application,41501,41501,Engineering: Electrical/Computer,financial services,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,San Francisco,CA,,90000,TartanTRAK,,,Engineering: Electrical/Computer,technology,2
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,New York,NY,,80000,TartanTRAK,,,Engineering: Electrical/Computer,financial services,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Infrastructure Quality Engineer,Palo Alto,CA,,86000,Hired from summer internship,,,Engineering: Electrical/Computer,technology,1
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,Mountain View,CA,,108000,Job Fair,,,Engineering: Electrical/Computer,technology,3
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Devlopment Engineer,Seattle,WA,,90000,Hired from Internship,,,Engineering: Electrical/Computer,retail,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,User Experience Software Engineer,Palo Alto,CA,,86000,Hired from Internship,,,Engineering: Electrical/Computer,technology,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,San Francisco,CA,,85000,Networking,,,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Display Software Engineer,Boston,MA,,57600,TartanTRAK,,,Engineering: Electrical/Computer,technology,3
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,Business Analystics Consultant,Washington,DC,,62364,Networking,,,Engineering: Materials,technology,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Developer,San Francisco,CA,,100000,Job Fair,,,Engineering: Electrical/Computer,technology,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Associate Support Engineer,Philadelphia,PA,,90110,TartanTRAK,,,Engineering: Electrical/Computer,technology,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,New York,NY,,104000,TartanTRAK,,,Engineering: Electrical/Computer,retail,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,"Operations Management Leadership Program, Transportation",Erie,PA,,65000,Hired from internship,,,Management: Operations,manufacturing,1
+2014,Non-US Citizen,China,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,Redwood City,CA,,100000,Job Fair,,,Engineering: Electrical/Computer,technology,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Software Engineer,New York,NY,,99600,Hired from internship,,,Engineering: Electrical/Computer,technology,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Engineer,Austin,TX,,59000,,,,Engineering: Electrical/Computer,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,SHS,CMY,F13,E,Technical Writer,Mountain View,CA,,66000,Hired from summer internship,41803,41833,Communications: Writing/Editing,technology,1
+2014,U.S. Citizen,United States,Male,BFA,CFA,Architecture,ARC,S14,E,Junior Architect ,New York,NY,,51000,Hired from summer Internship,,,Architecture,architecture,2
+2014,Non-US Citizen,Korea,Male,BFA,CFA,Architecture,ARC,S14,E,Junior Architect ,New York,NY,,45000,Networking,5/1/14,5/1/14,Architecture,architecture,2
+2014,U.S. Citizen,United States,Female,BS,CFA,Architecture,ARC,S14,E,Product Designer,Redwood City,CA,,80000,CAOC,3/1/14,4/1/14,Interaction Design,technology,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Architecture,ARC,S14,E,Junior Architect ,New York,NY,,50000,,,,,architecture,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Drama,PTM - Prod. And Stage Man.,S14,E,Crew ,NA,NA,,19200,,,,Crew,arts & entertainment,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,INDDES,S14,E,Associate Experience Designer,New York,NY,,92000,Hired from Internship Experience,,,Product Development/Management,design,3
+2014,Permanent Resident,United States,Female,BFA,CFA,Design,COMDES,S14,E,Junior Information Architect,New York,NY,,70000,,,,,architecture,1
+2014,Non-US Citizen,China,Male,BFA,CFA,Design,COMDES,S14,E,Associate User Experience Designer,Mountain View,CA,,105000,Job Fairs/CAOC/Confluence,,,Design,design,NA
+2014,U.S. Citizen,Korea,Male,BFA,CFA,Design,COMDES,S14,E,Associate Experience Designer,New York,NY,,90000,Job Fairs/CAOC/Confluence,,,Design,design,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Architecture,ARC,S14,E,Designer,Los Angeles,CA,,60000,Job Fair,3/1/14,3/1/14,Architecture,design,1
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,COMDES,S14,E,User Experience Designer,New York,NY,,90000,Networking & Job Fairs,,,Interaction/User Interface/UX Design,marketing/communications,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,COMDES,S14,E,Design Specialist,Chicago,IL,,55000,"TartanTRAK, Job Fairs & Hired from Internship Experience",,,Design,consulting,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,E,Intern Architect,Dallas,TX,,44000,Networking,4/1/14,,,architecture,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,E,Architectural Intern,Fort Worth,TX,,45000,On-line Job Listing Site,6/1/14,6/1/14,Architecture,architecture,1
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,E,Architecture Intern,Pittsburgh,PA,,30000,Internship,7/14/14,8/14/14,Communication Design,architecture,NA
+2014,Permanent Resident,United States,Female,BFA,CFA,Design,COMDES,S14,E, Interaction Designer,Mountain View,CA,,95000,Job Fairs/CAOC/Confluence,,,Design,technology,4
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,E,Intern Architect,San Francisco,CA,,45000,Networking / online job listing,6/1/14,6/1/14,Architect,architecture,2
+2014,U.S. Citizen,United States,Male,BFA,CFA,Architecture,ARC,S14,E,Junior Architect ,New York,NY,,41600,Hired from summer internship,,,,architecture,NA
+2014,Non-US Citizen,Canada,Male,BFA,CFA,Design,INDDES,S14,E,Industrial Designer,NA,FL,,50000,,,,,design,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S14,E,Technical Designer,Houston,TX,,40000,On-line Job Listing Site,5/1/14,5/1/14,Architect,architecture,1
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,COMDES,S14,E,Designer,New York,NY,,60000,Job Fairs/CAOC Confluence,,,Motion Design,advertising & public relations,5
+2014,U.S. Citizen,Singapore,Male,BFA,CFA,Architecture,ARC,S14,E,Junior Architect ,New York,NY,,42000,Networking,6/1/14,6/1/14,Architecture,architecture,3
+2014,U.S. Citizen,United States,Male,BFA,CFA,Music,Technology,S14,E,Software Engineer,Los Angeles,CA,,79200,job fair and networking,13-Nov,13-Nov,interactive media research,arts & entertainment,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Credit Analyst,Fulton,MD,,40000,,41671,41671,Finance:Financial Analysis,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,COMPFIN,S14,E,Associate  ,New York,NY,,63000,TartanTRAK,41579,41579,Finance:Other,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Analyst,New York,NY,,72000,Hired from summer internship,41487,41579,Finance:Financial Analysis,financial services,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,Business Management Associate,Philadelphia,PA,,54000,Networking,41730,41730,Marketing:Business Development/Sales,consumer products,6
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Analyst,Bala Cynwyd,PA,,45000,TartanTRAK,41671,41671,Management:Operations,financial services,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAGENMAN,S14,E,Real Estate Banking Rotation Program,Pittsburgh,PA,,72000,TartanTRAK,41518,41548,Finance:Other,financial services,2
+2014,Non-US Citizen,China,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Global Risk Analyst,New York,NY,,70000,TartanTRAK,41579,41579,Finance:Risk Management,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S14,E,Business Analyst ,New York,NY,,70000,Job Fair,41548,41579,Analyst:Business,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Business Analyst,Philadelphia,PA,,75500,TartanTRAK,41579,41609,Consulting:Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Finance Rotation Program,Pittsburgh,PA,,57000,TartanTRAK,41579,41609,Finance:Corporate,manufacturing,4
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAGENMAN,S14,E,Consultant,Washington,DC,,65000,TartanTRAK,41548,41579,Consulting:Management/Strategy ,consulting,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAITM,S14,E,Management Consultant Associate,New York,NY,,65000,Hired from summer internship,41487,41487,Consulting:Management/Strategy ,consulting,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Junior Trader,Greensburg,PA,,60000,,41699,41699,Finance:Sales and Trading,financial services,2
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAGENMAN,S14,E,Enterprise Marketing Solutions; Interactive Marketing Associate ,Philadelphia,PA,,50000,Hired from summer internship,41579,41640,Marketing:Brand/Product Management,technology,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Consultant,Philadelphia,PA,,71000,TartanTRAK,41548,41579,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,Consultant,Washington,DC,,71000,TartanTRAK,41548,41579,Consulting:Management/Strategy ,consulting,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,Risk Consulting Associate,New York,NY,,65000,Networking,41548,41548,Consulting:Other,consulting,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,"Analyst, Capital Markets Origination",New York,NY,,70000,Hired from Summer Internship,41487,41518,Finance:Investment Banking,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Finance Leadership Development Program,Waltham,MA,,57000,TartanTRAK,41579,41579,Finance:Corporate,biotechnology,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Database Analyst,Washington,DC,,90000,TartanTRAK,41548,41579,IT:Analyst,technology,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Investment Banking Analyst,Pittsburgh,PA,,70000,TartanTRAK,41671,41671,Finance:Investment Banking ,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Vanguard Accelerated Development Rotational Program,Valley Forge,PA,,51000,Hired from summer internship,41487,41548,Finance:Other,financial services,3
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAGENMAN,S14,E,Management Trainee Program,Miami,FL,,60000,TartanTRAK,41609,41609,Management:Management Trainee (Entry-Level Management),consumer products,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Asset Finance Analyst,New York,NY,,70000,TartanTRAK,41487,41487,Finance:Investment Banking ,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Investment Banking Analyst,New York,NY,,75000,TartanTRAK,41548,41579,Finance:Investment Banking,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Business Analyst,Pittsburgh,PA,,75500,TartanTRAK,,,Consulting:Management/Strategy,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAENT,S14,E,Marketing Analyst,Wilmington,DE,,55000,TartanTRAK,41671,41730,Marketing:Other,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Equipment Finance Analyst,Pittsburgh,PA,,60000,TartanTRAK,41548,41548,Finance:Financial Analysis,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAGENMAN,S14,E,Business Career Foundation Program,Seattle,WA,,52000,Hired from summer internship,41518,41518,Finance:Other,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAIMN,S14,E,Business Systems Analyst,Auburn Hills,MI,,62087,Job Fair,41548,41579,IT:Analyst,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Consultant,New York,NY,,71000,,41579,41609,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Corporate Finance Analyst,New York,NY,,60000,On-line Job Listing Site,41579,41579,Finance:Corporate,consulting,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S14,E,Business and Marketing Operations,New York,NY,,42000,Networking,41730,41791,Marketing:Brand/Product Management ,consumer products,4
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAMARK,S14,E,Marketing Associate,New York,NY,,75000,Networking,41699,41699,Marketing:Other,marketing/communications,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Investment Banking Analyst,New York,NY,,70000,TartanTRAK,41487,41518,Finance:Investment Banking,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAIMN,S14,E,Consultant,San Francisco,CA,,79000,Job Fair,41548,41579,Consulting:Management/Strategy,consulting,4
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,Business Analyst,Minneapolis,MN,,54000,Hired from summer internship,41487,41518,Analyst:Business,retail,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Management Consultant Associate,New York,NY,,65000,Hired from summer internship,41487,41579,Consulting:Management/Strategy ,consulting,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN; BACIT,S14,E,Technology Analyst,New York,NY,,80000,TartanTRAK,41548,41609,IT:Analyst,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Financial Analyst,Latrobe,PA,,47000,Networking,41791,41791,Finance:Accounting,manufacturing,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Asset & Liability Management Analyst ,New York,NY,,70000,TartanTRAK,41579,41579,Finance:Asset/Portfolio Management,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Sales & Trading Analyst,New York,NY,,70000,Your Career Consultant/the Career Center ,41548,41548,Finance:Sales and Trading ,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,Treasury Services Analyst,New York,NY,,70000,TartanTRAK,41487,41487,Finance:Financial Analysis,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Treasury Services Analyst,New York,NY,,70000,Hired from summer internship,41456,41456,Finance:Financial Analysis,financial services,1
+2014,Non-US Citizen,Japan,Female,BS,Tepper,Business Administration,BAITM,S14,E,Tax Consultant,Los Angeles,CA,,55000,Internet Job Listing Site,41671,41699,Consulting:Finance,consulting,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAGENMAN,S14,E,"Analyst, Capital Markets Origination",New York,NY,,70000,Hired from summer internship,41487,41518,Finance:Investment Banking,financial services,2
+2014,Non-US Citizen,Canada,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Investment Banking Analyst,New York,NY,,70000,Hired from summer internship,41518,41518,Finance:Investment Banking,financial services,2
+2014,Non-US Citizen,Korea,Female,BS,Tepper,Business Administration,BA,S14,E,Associate Analyst,New York,NY,,65000,TartanTRAK,41699,41699,Management:Product Management,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAGCM,S14,E,Supply Chain Analyst,Mountain View,CA,,85000,Job Fair,41609,41609,Management:Supply Chain,technology,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Software Engineer,Arlington,VA,,110000,Networking,41548,41579,Computer Science:Software Development,technology,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAGENMAN,S14,E,Product Designer/Mold Engineer,Asbury Park,NJ,,52000,Networking,41579,41579,Engineering: Manufacturing/Industrial ,manufacturing,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Business Analyst,Pittsburgh,PA,,75500,TartanTRAK,41487,41518,Consulting:Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAITM,S14,E,Associate Consultant,Seattle,WA,,74000,Job Fair,41609,41609,Consulting:IT,technology,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Junior Trader,Greensburg,PA,,60000,Networking,41760,41760,Finance:Sales and Trading,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAIMN,S14,E,Management Consultant Associate,Los Angeles,CA,,65000,Networking,41548,41579,Consulting:Management/Strategy,consulting,2
+2014,Non-US Citizen,China,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Finance Associate,Redwood City,CA,,70000,TartanTRAK,41730,41730,Finance:Financial Analysis,technology,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Analyst,San Francisco,CA,,70000,TartanTRAK,41671,41671,Finance:Financial Analysis,financial services,2
+2014,Non-US Citizen,Philippines,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Software Engineer,San Francisco,CA,,94000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Business Analyst ,Pittsburgh,PA,,56000,,,,Business Analyst,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Technology Consultant,Dallas,TX,,60000,,,,IT,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Data Analyst,San Francisco,CA,,83000,,,,Analyst,retail,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,S14,E,Analyst,New York,NY,,70000,Hired from summer internship,41487,41518,Finance:Financial Analysis,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Technical Services,Madison,WI,,65000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Associate Management Consultant,Chicago,IL,,63500,,,,Management/Strategy,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Product Designer,San Francisco,CA,,80000,,,,User Design,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Software Engineer,Los Angeles,CA,,95000,,,,Software Development,technology,NA
+2014,U.S. Citizen,Taiwan,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Associate Consultant,San Francisco,CA,,71000,,,,Management/Strat,consulting,NA
+2014,Permanent Resident,United States,Male,BS,Dietrich,Psychology,PSY,S14,E,Software Engineer,San Francisco,CA,,78000,,,,Softwarde Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F13,E,Analyst,New York,NY,,64000,,,,Financial Analyst,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Associate Consultant,Seattle,WA,,74000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Information Technology Development Rotational Program,Cupertino,CA,,95000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Global Business Consultant ,Herndon,VA,,72000,,,,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Business Analyst ,New York,NY,,65000,,,,Business Analyst,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,IT Development Program Associate,McLean,VA,,68000,,,,Data,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,POLMGMT,S14,E,Chapter Leadership Consultant ,Indianapolis,IN,,23660,,,,Greek Advisor,education,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,F13,E,Associate Energy Software Consultant,Dallas,TX,,60000,Job Fair,41579,41579,Consulting:IT,technology,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S14,E,Business Development Representative,San Francisco,CA,,75000,Networking,41579,41609,Marketing:Business Development/Sales,technology,1
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,F13,E,Consultant,Washington,DC,,71000,Job Fair,41925,41956,Consulting: Management/Strategy,consulting,4
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Philosophy,EHPP,S14,E,Risk Management modeling analyst ,New York,NY,,90000,,,,Financial Analysis,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Prototyper,Mountain View,CA,,89000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F13,E,Scientist ,Tenafly,NJ,,46000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Software Development,Austin,TX,,67000,,,,Softwarde Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Technology Consultant,San Francisco,CA,,65000,,,,IT,consulting,NA
+2014,Non-US Citizen,Korea,Male,BS,Dietrich,Statistics,ECOSTA,S14,E,Global Data Analyst,Pittsburgh,PA,,55000,,41740,41743,Analyst: Data,consumer products,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,S14,E,Information Analyst,Peoria,IL,,67104,TartanTRAK,41986,41653,Analyst: Data,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,TWCM,S14,E,Consumer Writer,Seattle,WA,,102000,,,,Communications: Writing/Editing,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,ECOSTA,S14,E,Solutions Developer,Bolder,CO,,80000,Linked in,41743,41743,Analyst: Data,technology,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,POLMGMT,S14,E,Regional Field Director,Providence,RI,,48000,,,,Fundraising,education,NA
+2014,U.S. Citizen,Hong Kong,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Technology Consultant,San Francisco,CA,,70000,,,,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,STA,S14,E,Risk Associate,Pittsburgh,PA,,55000,Hired from summer internship,41895,41925,Analyst: Data,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Operations Management Analyst ,Charlotte,NC,,55000,,,,Business Analyst,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,History,GS,S14,E,Consulting (GBS),Chicago,IL,,71000,,,,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,History,GS,S14,E,Consulting Public Sector,Washington,DC,,70000,,,,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,PW,S14,E,Content Publisher,Redmond,WA,,102000,LinkedIn,,41669,Communications: Writing/Editing,technology,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Experienced Associate/Tech Consultant,Chicago,IL,,63000,,,,IT,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Intern,Vienna,VA,,46000,,,,,consulting,NA
+2014,Permanent Resident,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Product Management,Seattle,WA,,72000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Systems Analyst,San Francisco,CA,,80000,,,,Network Admin,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,ECOSTA,S14,E,Trader,NA,NA,,70000,CPDC,,,Finance: Sales/Trading,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Information Technology Development Rotational Program,Cupertino,CA,,96000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Product Management ,San Francisco,CA,,82000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Data Analytics Consultant,New York,NY,,70000,,,,IT Analyst,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S14,E,Analyst,New York,NY,,70000,Hired from summer internship,41487,41487,Analyst:Data,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Machine Learning Scientist ,Arlington,VA,,85000,,,,Computer Programming,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Business Systems Analyst,Pittsburgh,PA,,60000,,,,Business Analyst,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,POLMGMT,S14,E,Associate Consultant,New York,NY,,64000,,,,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,S14,E,Management Consultant ,New York,NY,,65000,Job Fair,41548,41579,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Commecial Sector Consulting,New York,NY,,71000,,,,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Digital Software Engineer,New York,NY,,75000,,,,Software Development,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,User Experience Leadership Program,San Ramon,CA,,96000,,,,Design,consumer products,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,INTRELP,F13,E,Project Manager,Palo Alto,CA,,78000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,INTRELP,S14,E,Project Manager,Madison,WI,,65000,,,,Other,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Philosophy,EHPP,S14,E,Product Management Associate,Redwood,CA,,70000,,,,Management/Strat,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,S14,E,Analytics Analyst,Chicago,IL,,70000,Job Fair,41956,41956,Analyst: Data,financial services,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,S14,E,Data Scientist,Cleveland,OH,,65000,Job Fair,41623,41647,Analyst: Data,healthcare,3
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S14,E,GBS Public Sector SAP/Oracle Consultant,Washington,DC,,65000,TartanTRAK,41579,41609,Consulting:IT ,consulting,2
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Software Engineer,Vienna,VA,,72000,,,,Software Development,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,S14,E,Management Consultant Analytics,New York,NY,,65000,TartanTRAK,41925,41956,Consulting: Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Female,BS,MCS,Physics,PHYAST,S14,E,Geophysicist,Houston,TX,,74000,TartanTrak,41732,41740,Geophysicist/data processing,energy,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,E,Researcher,Bethesda,MD,,31000,,,,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Computational Finance,CompFin,S14,E,Trader,Chicago,IL,,70000,,Mid October,End of October,Finance: Sales & Trading,financial services,4
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Research Associate 1,Pittsburgh,PA,,35000,Networking,41773,41773,Research,education,2
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,"Operations Research Analyst, Consultant",NA,NA,,60000,Referred by student in previous class,,,Consulting: Other,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Actuarial and Analytics Leadership Development Program,Hartford,CT,,66000,Networking,41518,41518,Finance: Actuarial,insurance,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Technology Analyst,NA,NA,,70000,TartanTRAK,,,Finance: Other,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCOR,S14,E,Risk Analyst,Hoboken,NJ,,65000,TOC,41641,41649,Finance: Risk Management,insurance,3
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Post Baccalaureate Researcher,Bethesda,MD,,31000,Academic Advisor,41773,41773,Research,healthcare,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Software Engineer,McLean,VA,,72000,Job Fair,41925,41925,Computer Science: Software Engineering,financial services,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Engineer,Boston,MA,,80000,Intern there last summer,41487,41579,Computer Science: Software Engineering,retail,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Engineer,Lexington,MA,,85000,Internet Job Listing Site,41788,41789,Computer Science: Software Engineering,marketing/communications,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCM,S13,E,Security Analyst,New York,NY,,65000,Networking,41652,41652,Consulting: Other,consulting,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCDML,S14,E,Software Engineer,Mountain View,CA,,115000,TOC,,,Computer Science: Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Development Engineer,Seattle,WA,,90000,OCR,41632,41657,Computer Science: Software Development,retail,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Physics,PHY,S14,E,Quantitative Analyst,Chicago,IL,,85992,Online Job Listing,,,Analyst: Business,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,F13,E,Software Engineer,Mountain View,CA,,100000,,April,April,Computer Science: Software Engineering,technology,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Developer,San Jose,CA,,85000,"Tartan Trak, Job Fair",41760,41760,Computer Science: Software Development,technology,3
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSCPSY,S14,E,Research Assistant,Bethesda,MD,,24000,Advisor,,41705,Research,healthcare,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,E,Research Associate 1,Pittsburgh,PA,,26000,Networking,41794,41794,Research,education,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,F13,E,Product Modeling Analyst,Chevy Chase,MD,,50710,Referred by a friend,41604,41610,Analyst: Business,insurance,2
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Project Manager,Madison,WI,,60000,Tartan TRAK,41713,41728,Information Systems,technology,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Naval Missions Analysis,Laurel,MD,,68000,Internal connection,,,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,CRTA research fellow,Bethesda,MD,,31000,,41712,41712,Research,healthcare,5
+2014,Non-US Citizen,India,Male,BS,MCS,Mathematical Sciences,COMPFIN,S14,E,Trader,Chicago,IL,,70000,TartanTRAK,41548,41579,Finance: Sales & Trading,financial services,2
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCM,S14,E,Business Analyst,Pittsburgh,PA,,50000,"Job Fair, TartanTrak",41671,41699,Analyst: Business,technology,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,Mcsba,S14,E,Software Developer,Verona,WI,,90000,TartanTrak,41548,41593,Computer Science: Software Development,technology,2
+2014,Permanent Resident,India,Female,BS,MCS,Mathematical Sciences,COMPFIN,S14,E,"Analyst, Sales & Trading",NA,NA,,60250,On campus information session,,,Finance: Sales & Trading,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Engineer,Herndon,VA,,88250,"Job Fair, TartanTrak, Networking",41579,41609,Computer Science: Software Engineering,technology,2
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Trading Analyst,Chicago,IL,,70000,TartanTrak,41944,41944,Finance: Sales & Trading,financial services,3
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCCAM,S14,E,Software Engineer,Pittsburgh,PA,,50000,TOC,41603,41610,Computer Science: Other,consumer products,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Engineer,New York,NY,,100000,"Job Fair, Online Job Listing Site",41592,41957,Computer Science: Software Engineering,technology,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,E,Chemist ,Huntsville,AL,,60000,Hired from summer internship,41653,41684,Engineering: Quality control,manufacturing,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,COMPFIN,S14,E,Assistant Trader,Chicago,IL,,80000,Hired from Summer Internship,41487,41518,Finance: Sales & Trading,financial services,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Software Engineer,Los Angeles,CA,,110000,TOC,,,Computer Science: Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,96000,"TartanTRAK, Online Job Listing Site, & Hired from summer internship",41548,41579,Software Development,retail,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Technical Director,Glendale,CA,,70000,,,,Software Engineering,arts & entertainment,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,SoftwareEngineer,Palo Alto,CA,,110000,Networking,41548,41579,Software Engineering,technology,5
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Hedge Fund Manager,New York,NY,,100000,,,,Asset/Portfolio Management,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Developer,Seattle,WA,,102000,Networking & Career Consultant,41579,41609,Software Development,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,95000,,,,Software Engineering,technology,NA
+2014,Non-US Citizen,Other,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Seattle,WA,,90000,"Job Fair, Career Consultant & Networking",,,Software Engineering,retail,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Norwalk,CT,,87000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Pittsburgh,PA,,90000,Job Fair,41579,41609,Software Engineering,technology,5
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountian View,CA,,100000,,41518,41548,Software Engineering,technology,2
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Java Engineer,San Francisco,CA,,115000,Hired from summer internship,41699,41699,Software Engineering,technology,1
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Developer,Palo Alto,CA,,109500,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Menlo Park,CA,,105000,,,,Software Engineering,technology,NA
+2014,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S14,E,Forward Deployment Engineer,San Francisco,CA,,92000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,108000,"Job Fair, Hired from Internship & Career Consultant",41518,41609,Software Development,retail,1
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Softeware Development Engineer,Seattle,WA,,102000,Hired from summer internship,41487,41548,Software Engineering,technology,1
+2014,Permanent Resident,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,90000,Networking,41518,41579,Software Development,retail,2
+2014,Non-US Citizen,Korea,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,105000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Associate Software Engineer,Westford,MD,,70000,Hired from summer internship,41671,41671,Software Engineering,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Austin,TX,,65000,Hired from summer internship,41487,41579,Software Engineering,manufacturing,1
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,105000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Engineer,San Francisco,CA,,110000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Dallas,TX,,72000,,,,Software Engineering,financial services,NA
+2014,Non-US Citizen,China,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Seattle,WA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Brooklyn,NY,,95000,Hired from summer internship,41579,41579,Software Engineering,technology,1
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,90000,,,,Software Development,retail,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountian View,CA,,112000,Networking,41548,41609,Software Engineering,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,102000,Hired from summer internship,41944,41974,Software Engineering,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,110000,Networking,41609,41640,Software Engineering,technology,6
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,90000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Engineer,San Francisco,CA,,80000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,95000,Networking,41579,41671,Software Engineering,technology,4
+2014,U.S. Citizen,Korea,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Seattle,WA,,90000,TartanTRAK,41913,41944,Software Engineering,retail,3
+2014,Non-US Citizen,Korea,Male,BS,SCS,Computer Science,CS,S14,E,Sotware Developer,Chicago,IL,,85000,TartanTRAK & Job Fair,41579,41609,Software Engineering,technology,1
+2014,Non-US Citizen,Korea,Male,BS,SCS,Computer Science,CS,F13,E,Software Engineer,San Francisco,CA,,102000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Development Engineer,Seattle,WA,,110000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Web Application Developer,Calverton,MD,,49000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Engineer,Pittsburgh,PA,,49000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,92000,TartanTRAK & Online Job Lisiting Site,,,Software Engineering,technology,2
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,F13,E,Software Engineer,New York,NY,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Menlo Park,CA,,105000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,102000,,,,Software Development,technology,NA
+2014,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,115000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Financial Modeling Analyst,New York,NY,,75000,,,,Financial Analysis,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,100000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Developer,Mountian View,CA,,100000,Their website,41548,41579,Software Development,technology,1
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Development Engineer,Seattle,WA,,102000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,90000,,,,Software Development,retail,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Palo Alto,CA,,115000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Test Engineer,Austin,TX,,62000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Seattle,WA,,110000,Job Fair,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Engineer,New York,NY,,95000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Blacksburg,VA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Menlo Park,CA,,102000,Job Fair,41487,41548,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Developer,Pittsburgh,PA,,50000,Networking,41579,41609,Software Development,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,105000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Full Stack Engineer,San Francisco,CA,,84000,Job Fair & Networking,41548,41579,Software Engineering,technology,9
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,100800,Networking,41548,41579,Software Engineering,technology,8
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,90000,,,,Software Development,retail,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,105000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,India,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,108000,Job Fair,,,Software Engineering,technology,2
+2014,Non-US Citizen,India,Male,BS,SCS,Computer Science,CS,S14,E,Backend Engineer,San Francisco,CA,,105000,Networking,41579,41609,Software Engineering,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,90000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Arlington,VA,,110000,,,,Software Engineering,technology,NA
+2014,Non-US Citizen,Canada,Male,BS,SCS,Computer Science,CS,S14,E,iOS Software Engineer,San Francisco,CA,,100800,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Bruno,CA,,100000,,,,Software Engineering,technology,NA
+2014,Non-US Citizen,Thailand,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,90000,Job Fair,41579,41609,Software Development,retail,2
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountian View,CA,,100000,Job Fair,41518,41609,Software Engineering,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Member of Technical Staff,NA,NA,,105000,Job Fair,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Seattle,WA,,90000,Job Fair,41548,41548,Software Engineering,retail,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,WA,,115000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Software Engineer,Herndon,VA,,70000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Cary,NC,,72000,Networking,41579,41609,Software Engineering,technology,1
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Austin,TX,,90000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Test Engineer,San Diego,CA,,55000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,99996,Job Fair & Hired from summer internship,41548,41579,Software Engineering,technology,4
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Palo Alto,CA,,85000,,,,Software Engineering,arts & entertainment,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Software Engineer,Pittsburgh,PA,,65000,,,,Software Engineering,technology,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Asset and Wealth Management Associate,New York,NY,,70000,,,,Asset/Portfolio Management,financial services,NA
+2014,Non-US Citizen,China,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,115000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,SDET I,Seattle,WA,,103000,TartanTRAK,41487,41579,Software Engineering,technology,2
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer in Test,Seattle,WA,,103000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,San Francisco,CA,,100000,,,,Software Engineering,technology,NA
+2014,Permanent Resident,United States,Female,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Seattle,WA,,90000,,,,Software Development,retail,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Menlo Park,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Developer,Pittsburgh,PA,,70000,,,,Software Development,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Developer,Madison,WI,,90000,,,,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Android Engineer,New York,NY,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Menlo Park,CA,,105000,,,,Software Engineering,technology,NA
+2014,Non-US Citizen,Singapore,Female,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Mountain View,CA,,100000,,,,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,F13,E,Software Engineer,San Francisco,CA,,100000,,,,Software Engineering,technology,NA
+2014,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,New York,NY,,100000,,,,Software Engineering,technology,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Software Development Engineer,Redmond,WA,,102000,Hired from Summer Internship ,41487,41487,Software Development,technology,1
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Software Engineer,Palo Alto,CA,,95000,,,,Software Engineering,technology,NA

@@ -1,0 +1,719 @@
+year,workauthorization,country,gender,degree,college,department,major,graddate,status,employer.school,jobtitle.gradprogram,city,state.country,graddegree,useful,dateoffered,dateaccepted,jobfunction,employerindustry,numoffers
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Accenture,Systems Integration Analyst,Pittsburgh,PA,NA,TartanTRAK,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,SHS,SHS,Decision Science,S12,E,Accenture,Systems Integration Analyst,New York,NY,NA,TartanTRAK,40835,40880,Consulting,consulting,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Accenture,Analyst,Boston,MA,NA,Hired from Summer Internship,40787,40787,Consulting,consulting,3
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,F11,E,Accenture,Systems Integration Analyst,New York,NY,NA,NA,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Accenture,Systems Integration Consulting Analyst,Pittsburgh,PA,NA,TartanTRAK,40848,40848,Consulting,consulting,3
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Accenture,Corporate Development and Transaction Services Analyst,Chicago,IL,NA,Networking,40909,40940,Corporate,consulting,3
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Accenture,Systems Integration Analyst,Pittsburgh,PA,NA,TartanTRAK,40848,40848,Consulting,consulting,2
+2012,NA,Korea,NA,BS,Tepper,Business Administration,NA,S12,E,Accenture,Systems Integration Analyst,Pittsburgh,PA,NA,TartanTRAK,40848,40848,Consulting,consulting,1
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Accenture,Consulting,Pittsburgh,PA,NA,TartanTRAK,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Accenture,NA,NA,NA,NA,NA,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Accenture,Analyst,Pittsburgh,PA,NA,Networking,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Dietrich,Social & Decision Sciences,Decision Science,S12,E,Accenture,Systems Integration Analyst,Pittsburgh,PA,NA,Networking,NA,NA,Consulting,consulting,NA
+2012,NA,China,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S11,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,MCS,Physics,NA,S12,E,Amazon,Software Development Engineer,Seattle,WA,NA,Job Fair,40951,40980,Software Development,technology,2
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,China,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Korea,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Devlopment Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,India,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,F12,E,Amazon,Software Developer Engineer,Seattle,WA,NA,Job Fair,40843,40866,Software Development,technology,3
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Korea,NA,BS,SCS,Computer Science,NA,S12,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,NA,NA,BS,SCS,Computer Science,NA,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,India,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Amazon,Software Developer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Apple,Product Design Engineer,Cupertino,CA,NA,summer internship,40940,40943,Design/Construction,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Apple,Mac OS X Performance Engineer,Cupertino,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Apple,Mac OS X Performance Engineer,Cupertino,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Apple,Software QA Engineer,Cupertino,CA,NA,NA,41061,41061,Software Development,technology,NA
+2012,NA,United States,NA,BS,CFA,Design,industrial design,S12,E,Apple,UI Designer,Cupertino,CA,NA,NA,NA,NA,Design,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Apple,User Experience Architect,Cupertino,CA,NA,TartanTRAK,41122,41214,Business Development/Sales,technology,1
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Aspen Technology,Associate Engineer,Burlignton,MA,NA,NA,NA,NA,Engineering,technology,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Aspen Technology,NA,Nashua,NH,NA,interoffice mailing,NA,NA,NA,technology,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Aspen Technology,Product Manager,Boston,MA,NA,TartanTRAK,NA,NA,Product Management,technology,NA
+2012,NA,China,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Bank of America,Technology Associate,New York,NY,NA,TartanTrak,41224,41224,Technical/Computer Support,financial services,1
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Bank of America,Trading Analyst,New York,NY,NA,Hired from Summer Internship,41132,41132,Sales & Trading,financial services,1
+2012,NA,Japan,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Bank of America,Officer,Tokyo,Japan,NA,Job Fair,40851,40865,Finance,financial services,3
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Barclays Capital,Asian Equities Sales Analyst,New York,NY,NA,Networking,41000,41000,Sales & Trading,financial services,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Barclays Capital,Investment Banking Analyst,New York,NY,NA,Hired from Summer Internship,40756,40817,Investment Banking,financial services,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Barclays Capital,Investment Banking Analyst,New York,NY,NA,Hired from Summer Internship,40756,40787,Investment Banking,financial services,1
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Barclays Capital,Software Analyst,New York,NY,NA,NA,NA,NA,Software Development,financial services,NA
+2012,NA,China,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Barclays Capital,Technology Analyst,New York,NY,NA,NA,NA,NA,Technical/Computer Support,financial services,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Barclays Capital,Technology Analyst,New York,NY,NA,NA,NA,NA,Technical/Computer Support,financial services,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,BlackRock,Analyst,New York,NY,NA,NA,NA,NA,Financial Analysis,financial services,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,F11,E,BlackRock,Analyst,New York,NY,NA,NA,NA,NA,Financial Analysis,financial services,NA
+2012,NA,Hong Kong,NA,BS,MCS,Mathematical Sciences,NA,S12,E,BlackRock,NA,San Francisco,CA,NA,NA,NA,NA,NA,financial services,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,F11,E,Boeing,Structural Design Engineer,Seattle,WA,NA,job fair,41163,41224,Design/Construction,engineering and science,1
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Boeing,Systems and Data Analyst,Renton,WA,NA,NA,NA,NA,Computer Systems Analysis,engineering and science,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Boeing,Design Engineer,Mesa,AZ,NA,NA,NA,NA,Design/Construction,engineering and science,NA
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,F11,E,Capital One,Business Analyst,McLean,VA,NA,TartanTRAK,40817,40817,Financial Analysis,financial services,2
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Capital One,Developer - IT Development Program,Richmond,VA,NA,TartanTRAK,40981,40988,Software Development,financial services,1
+2012,NA,Taiwan,NA,BS,Dietrich,Statistics,Economics and Statistics,S12,E,Capital One,IT Development Program Associate--Business Systems Analyst,Richmond,VA,NA,TartanTRAK,40981,NA,Computer Systems Analysis,financial services,1
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Capital One,Developer,McLean,VA,NA,Job Fair,40989,40990,Software Development,financial services/insurance,4
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Caterpillar,Rotational Program,Peoria,IL,NA,job fair,41011,41041,Manufacturing/Industrial,manufacturing,6
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Caterpillar,Leadership Development Technical Program Associate Engineer,Peoria,IL,NA,NA,NA,NA,Engineering,manufacturing,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Chrysler,Chrysler Institute of Engineering (CIE),Detroit,MI,NA,internship,NA,NA,Engineering,manufacturing,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Chrysler,Chrysler Institute of Engineering (CIE),Detroit,NA,NA,NA,NA,NA,Engineering,manufacturing,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Chrysler,Chrysler Institute of Engineering (CIE),Detroit,MI,NA,NA,NA,NA,Engineering,manufacturing,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Chrysler,Vehicle Engineer,Detroit,MI,NA,internship,40980,40980,Engineering,manufacturing,2
+2012,NA,India,NA,BS,Tepper,Business Administration,NA,S12,E,Citi,Risk Analyst,New York,NY,NA,TartanTRAK,40725,40817,Risk Management,financial services,1
+2012,NA,China,NA,BS,Tepper,Business Administration,NA,S12,E,Citi,Investment Banking Analyst,Hong Kong,NA,NA,Hired from Summer Internship,40756,40817,Investment Banking,financial services/insurance,4
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Citi,Sales & Trading Analyst,New York,NY,NA,NA,NA,NA,Sales & Trading,financial services/insurance,NA
+2012,NA,India,NA,BS,Tepper,Business Administration,NA,S12,E,Citi,Sales & Trading Analyst,New York,NY,NA,TartanTRAK,40756,40756,Sales & Trading,financial services/insurance,3
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Citi,STQA Analyst,New York,NY,NA,NA,NA,NA,Sales & Trading,financial services,NA
+2012,NA,United States,NA,BS,Dietrich,Statistics,Economics and Statistics,S12,E,Citi,Capital Markets Origination Analyst,New York,NY,NA,NA,NA,NA,Financial Analysis,financial services/insurance,NA
+2012,NA,NA,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Citi,Risk Analyst,New York,NY,NA,NA,NA,NA,Risk Management,financial services,NA
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Citi,Global Risk Analyst,New York,NY,NA,Hired from Summer Internship,41132,41193,Risk Management,financial services/insurance,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Deloitte,Business Technology Analyst,New York,NY,NA,TartanTRAK,40849,40861,Consulting,consulting,1
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Deloitte,Economic Consultant,Washington,DC,NA,NA,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Deloitte,Assoc in Data Analytics,New York,NY,NA,TartanTRAK,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Deloitte,Consultant,New York,NY,NA,TartanTRAK,40756,40817,Consulting,consulting,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,Networking,40848,40878,Consulting,consulting,2
+2012,NA,Trinidad and Tobago,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Deloitte,BTA,Chicago,IL,NA,Networking,40756,40848,Consulting,consulting,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Deloitte,Business Analyst,Philadelphia,PA,NA,TartanTRAK,40817,40848,Consulting,consulting,4
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,NA,40817,40848,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Deloitte,"Business Analyst, Strategy & Operations",Pittsburgh,PA,NA,TartanTRAK,40756,40817,Consulting,consulting,1
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,NA,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Deloitte,Consultant,San Francisco,CA,NA,Hired from Summer Internship,40756,40787,Consulting,consulting,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,F11,E,Deloitte,Data Analytics and Forensics Associate,New York,NY,NA,Networking,40848,40878,Financial Analysis,consulting,2
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Deloitte,Business Analyst,Tokyo,Japan,NA,Job Fair,41193,41224,Consulting,consulting,1
+2012,NA,Hong Kong,NA,BS,Tepper,Business Administration,NA,S12,E,Deutsche Bank,Global Markets Analyst,New York,NY,NA,TartanTRAK,NA,NA,Corporate,financial services/insurance,1
+2012,NA,China,NA,BS,Tepper,Business Administration,NA,S12,E,Deutsche Bank,Global Markets Analyst,New York,NY,NA,Hired from Summer Internship,40756,40787,Sales & Trading,financial services/insurance,1
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Deutsche Bank,Technology Analyst,New York,NY,NA,TartanTRAK,40772,40847,Technical/Computer Support,financial services/insurance,1
+2012,NA,India,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Deutsche Bank,Business Analyst,New York,NY,NA,TartanTRAK,40760,40877,Financial Analysis,financial services/insurance,2
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Deutsche Bank,Business Analyst,New York,NY,NA,NA,NA,NA,Financial Analysis,financial services/insurance,NA
+2012,NA,United States,NA,BS,CFA,Art,ETB,S12,E,Disney Research,Artist / Lab Associate,Pittsburgh,PA,NA,Hired from summer internship,41030,41030,Other,"media, film & entertainment",1
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Disney Research,Lab Associate,Pittsburgh,PA,NA,NA,NA,NA,Other,"media, film & entertainment",NA
+2012,NA,United States,NA,BS,CFA,Art,NA,S12,E,Disney Research,Artist / Lab Associate,Pittsburgh,PA,NA,NA,NA,NA,Other,"media, film & entertainment",NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Dropbox,Software Engineer,San Francisco,CA,NA,Networking,41224,41224,Software Development,technology,2
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Epic,Technical Services,Verona,WI,NA,TartanTRAK,40920,40940,Technical/Computer Support,technology,1
+2012,NA,United States,NA,BS,Dietrich,Psychology,Psychology,S12,E,Epic,Account Manager,NA,NA,NA,NA,NA,NA,Management,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Ernst & Young,IT Advisor,New York,NY,NA,TartanTRAK,40761,40836,Technical/Computer Support,financial services/insurance,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Ernst & Young,Financial Consultant,New York,NY,NA,Job Fair,40756,40817,Consulting: Finance,financial services/insurance,NA
+2012,NA,India,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,F11,E,Ernst & Young,Staff 1 Technical Consultant,New York,NY,NA,"TartanTRAK, Job fair",40787,40848,Consulting,financial services/insurance,3
+2012,NA,India,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Ernst & Young,Analyst,Mumbai,India,NA,networking,40920,41011,Financial Analysis,consulting,4
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,ExxonMobil,Engineer,Fairfax,VA,NA,Summer Internship,NA,NA,Engineering,energy/utilities,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,ExxonMobil,Gas & Power Marketer,Houston,TX,NA,Job Fair,NA,NA,Marketing,energy/utilities,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,ExxonMobil,"Engineer, Modeling Operator Tools",Fairfax,VA,NA,Job Fair,NA,NA,Engineering,energy/utilities,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,F11,E,Ford Motor Company,Ford College Graduate in Global Engine Engineering,Dearborn,MI,NA,internship,NA,NA,Engineering,engineering and science,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Ford Motor Company,Ford College Graduate Engineer - Rotational Program,Dearborn,MI,NA,networking,40920,40951,Engineering,engineering and science,NA
+2012,NA,Korea,NA,BS,Tepper,Business Administration,NA,S12,E,Freddie Mac,IT Analyst,McLean,VA,NA,Hired from Summer Internship,40756,40817,Technical/Computer Support,financial services/insurance,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Freddie Mac,Analyst,McLean,VA,NA,TartanTRAK,40756,40878,Financial Analysis,education,2
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Freddie Mac,Analyst,McLean,VA,NA,Job Fair,40848,41254,Mathematician/Statistician,finance,2
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,India,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Development Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Ukraine,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,India,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Santa Monica,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Korea,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,NA,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,NA,NA,BS,SCS,Computer Science,NA,F11,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Google,User Experience Designer,New York,NY,NA,Networking,40902,40916,Software Development,technology,3
+2012,NA,China,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,Dietrich,Social & Decision Sciences,Decision Science,S12,E,IBM,Consultant,New York,NY,NA,NA,NA,NA,Consulting,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,IBM,Consultant,New York,NY,NA,TartanTRAK,40841,40846,Consultant,technology,5
+2012,NA,United States,NA,BS,Dietrich,Psychology,Psychology,S12,E,IBM,Consultant,Cambridge,MA,NA,Networking,41029,soon,Consulting,technology,1
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,IBM,Process Engineering Professional,East Fishkill,NY,NA,internship,NA,NA,Engineering,technology,NA
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,IBM,Market Development & Insights Professional - Client Insights Consultant,New York,NY,NA,On-campus information session,40848,40909,Consulting,technology,3
+2012,NA,United States,NA,BS,Dietrich,Social & Decision Sciences,Policy and Management,S12,E,IBM,Business Consultant,Chicago,IL,NA,NA,NA,NA,Consulting,technology,NA
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,IBM,Consultant,New York,NY,NA,Job Fair,40787,40817,Consulting,technology,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,IBM,NA,New York,NY,NA,NA,NA,NA,NA,technology,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,IBM,Consultant,New York,NY,NA,Hired from Summer Internship,40787,40817,Consulting,technology,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,IBM,Consultant,San Francisco,CA,NA,Job Fair,40848,40878,Consulting,consulting,3
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,IBM,Consultant,Philadelphia,PA,NA,Networking,40817,40848,Consulting,consulting,2
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,IBM,Consultant,New York,NY,NA,TartanTRAK,40848,40878,Consulting,consulting,3
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Intel,Graphic Engineer,Palo Alto,CA,NA,NA,NA,NA,Design/Graphic Arts,technology,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Intel,Process Engineer,Phoenix,AZ,NA,Job Fair,NA,NA,Engineering,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Intel,Process Engineer,Phoenix,AZ,NA,NA,NA,NA,Engineering,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Intel,Software Engineer,Chandler,AZ,NA,Website,40831,40877,Software Engineer,technology,NA
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,JP Morgan Chase,"Business Analyst, Treasury Securities Services",New York,NY,NA,NA,NA,40787,Financial Analysis,financial services/insurance,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,JP Morgan Chase,NA,New York,NY,NA,NA,NA,NA,NA,financial services,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,JP Morgan Chase,Technology Analyst,New York,NY,NA,TartanTrak,40811,40841,"Identify, asses and document new business needs. Research impacts. Create detailed test cases and business requirements documents",financial services/insurance,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,JP Morgan Chase,Corporate Finance Analyst,New York,NY,NA,Hired from Summer Internship,40787,40848,Financial Analysis,financial services/insurance,4
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,F11,E,JP Morgan Chase,Technology Analyst,New York,NY,NA,NA,NA,NA,Technical/Computer Support,financial services/insurance,NA
+2012,NA,United States,NA,BS,CIT,Materials Science,NA,F11,E,JP Morgan Chase,Analyst,New York,NY,NA,Internship,NA,NA,NA,financial services/insurance,NA
+2012,NA,United States,NA,BS,CFA,Design,Communication Design,S11,E,LinkedIn,User Experience Designer,Mountain View,CA,NA,"Job Fair (CAOC TOC, BOC, EOC, etc...)",NA,NA,Communications: Design/Graphic Arts,technology,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Merck,"Assoc Eng, Process Eng",Danville,PA,NA,Internship,NA,NA,Engineering,healthcare,NA
+2012,NA,United States,NA,BS,Dietrich,Statistics,Statistics,S12,E,Merck,Global Services Associate,Whitehouse Station,NJ,NA,TartanTRAK,40921,NA,Brand/Product Management,healthcare,1
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,Merck,Business/Technical Analyst,West Point,PA,NA,Networking,40878,40909,Other,healthcare,2
+2012,NA,United States,NA,BS,CFA,Design,Industrial design,S12,E,Microsoft,UX Design,Seattle,WA,NA,NA,41000,41000,Design,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Development Engineer in Test,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Microsoft,Software Development Engineer,Redmond,VA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Program Manager,Redmond,WA,NA,NA,NA,NA,Computer Science,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Microsoft,Software Engineer,Iselin,NJ,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Microsoft,Software Developer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Korea,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Developer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,NA,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Microsoft,Software Engineer,Redmond,WA,NA,Job Fair,41254,41254,Software Development,technology,4
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Microsoft,Software Developer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Microsoft,Software Engineer,Redmond,WA,NA,Job Fair,41224,41254,Software Development,technology,2
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,F11,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Canada,NA,BS,CFA,Design,communication design/hci,S12,E,Microsoft,user experience designer,Seattle,WA,NA,job fair,41000,41030,NA,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Microsoft,Softwhere Design Engineer,Cupertino,CA,NA,TartanTrak,November,December,Software Development,technology,2
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Microsoft,NA,Redmond,WA,NA,NA,NA,NA,NA,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Microsoft,NA,Seattle,WA,NA,NA,NA,NA,NA,technology,NA
+2012,NA,United States,NA,BS,CFA,Design,industrial design,S12,E,Microsoft,user experience designer,Seattle,WA,NA,NA,NA,NA,Design,technology,NA
+2012,NA,United States,NA,BS,Dietrich,Social & Decision Sciences,International Relations and Politics,S12,E,Microsoft,Associate Consultant,Charlotte,NC,NA,TartanTRAK,40927,40930,Consulting,technology,3
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Oracle,Software Engineer,Santa Clara,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Oracle,Software Engineer,Santa Clara,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Oracle,Software Developer,Burlington,MA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Oracle,Software Engineer,Santa Clara,CA,NA,Job Fair,40920,40920,Software Development,technology,1
+2012,NA,United States,NA,BS,Dietrich,Psychology,Psychology,S12,E,Oracle,Business Development Consultant,Redwood Shores,CA,NA,Job Fair,40996,41002,Business Development/Sales,technology,1
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,India,NA,BS,SCS,Computer Science,NA,S12,E,Palantir,QA Engineer,Palo Alto,CA,NA,NA,NA,NA,Quality Control,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Palantir,Simulation Software Engineer,Palo Alto,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Palantir,Development Support Engineer,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Palantir,Server Side Quality Engineer,Palo Alto,CA,NA,NA,41193,41224,Quality Control,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Palantir,RQA,Palo Alto,CA,NA,NA,NA,NA,NA,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Palantir,NA,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,NA,software,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Palantir,Software Engineering Intern,Palo Alto,CA,NA,NA,NA,NA,NA,computer software,NA
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,PNC,"Investment Banking Analyst, Loan Syndications",Pittsburgh,PA,NA,NA,NA,40817,Investment Banking,financial services,NA
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,S12,E,PNC,Capital Markets Analyst,Pittsburgh,PA,NA,TartanTRAK,40817,40878,Investment Banking,financial services,1
+2012,NA,United States,NA,BS,Dietrich,Economics,NA,F11,E,PNC,Associate Relationship Manager,East Brunswick,NJ,NA,NA,40787,40787,Asset/Portfolio Management,financial services,1
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,PNC,NA,NA,NA,NA,NA,NA,NA,NA,financial services,NA
+2012,NA,United States,NA,BS,CFA,Design,industrial design,S12,E,PNC,Interaction Designer,NA,NA,NA,NA,NA,NA,NA,financial services,NA
+2012,NA,United States,NA,BS,Dietrich,Statistics,Economics and Statistics,F11,E,PNC,Analyst with Asset Backed Securities,New York,NY,NA,NA,41214,41214,Asset/Portfolio Management,financial services,5
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,PricewaterhouseCoopers,Assurance Associate,New York,NY,NA,Networking,40756,40787,Accounting,consulting,1
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,F11,E,PricewaterhouseCoopers,Advisory Associate,New York,NY,NA,NA,NA,NA,Consulting,consulting,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,F11,E,Qualcomm,Software Engineer,San Diego,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Qualcomm,Software Engineer,San Diego,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Qualcomm,Software Engineer,Boulder,CO,NA,NA,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,Dietrich,English,Technical Writing and Communication,S12,E,Salesforce.com,Associate Technical Writer,San Francisco,CA,NA,Company Website,41252,41263,Writing/Editing,technology,4
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,Salesforce.com,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,United States,NA,BS,Dietrich,H&SS Interdisciplinary,Information Systems,S12,E,Salesforce.com,Software Development Engineer,San Francisco,CA,NA,Job Fair,40844,40848,Software Development,technology,2
+2012,NA,Korea,NA,BS,SCS,Computer Science,NA,S12,E,Salesforce.com,Software Platform Development Engineer,San Francisco,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Korea,NA,BS,SCS,Computer Science,NA,F11,E,Samsung,Software Engineer,San Jose,CA,NA,NA,NA,NA,Software Development,technology,NA
+2012,NA,Korea,NA,BS,Dietrich,Social & Decision Sciences,Decision Science,S12,E,Samsung,NA,Gyunggido,South Korea,NA,Internship,40817,40817,NA,electronics,1
+2012,NA,Korea,NA,BS,Dietrich,Economics,NA,F11,E,Samsung,Associate,Seoul,South Korea,NA,Internet Job Listing Site,41000,41000,Marketing: Marketing Research,financial services/insurance,4
+2012,NA,United States,NA,BS,CIT,Civil & Environmental Engineering,NA,S12,E,Schlumberger,Field Engineer,Tabasco,Mexico,NA,NA,NA,NA,Field Engineering,engineering and science,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Schlumberger,Field Engineer,Houma,LA,NA,Job Fair,NA,NA,Field Engineering,0,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Schlumberger,Field Engineer,Lafayette,LA,NA,Networking,NA,NA,Field Engineering,0,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Schlumberger,Field Engineer,Alice,TX,NA,Job Fair,NA,NA,Field Engineering,0,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Schlumberger,Field Engineer,Youngsville,LA,NA,Job Fair,NA,NA,Field Engineering,0,NA
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Schlumberger,Field Engineer,Perth,Australia,NA,Internship from Job Fair,NA,NA,Field Engineering,0,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Schlumberger,Field Engineer,Grand Junction,CO,NA,TOC,40884,40897,Field Engineering,engineering and science,2
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Schlumberger,Field Engineer,Horsehead,NY,NA,job fair,40875,40887,Field Engineering,engineering and science,NA
+2012,NA,United States,NA,BS,CIT,Civil & Environmental Engineering,NA,S12,E,Schlumberger,Field Engineer,Horseheads,NY,NA,NA,NA,NA,Field Engineering,engineering and science,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Schlumberger,Field Engineer,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Schlumberger,Field Engineer,Los Angeles,CA,NA,NA,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,SCS,Computer Science,NA,S12,E,SpaceX,Software Engineer,Hawthorne,CA,NA,NA,NA,NA,Software Development,engineering and science,NA
+2012,NA,United States,NA,BS,Dietrich,English,Professional Writing,S12,E,SpaceX,Communications Intern,Hawthorne,CA,NA,Networking and TartanTRAK,40960,40988,Writing/Editing,technology,3
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,F11,E,SpaceX,Manufacturing Engineer,Los Angeles,CA,NA,summer internship,NA,NA,Manufacturing/Industrial,0,NA
+2012,NA,United States,NA,BS,MCS,Physics,NA,F11,E,SpaceX,Avionics Intern,Hawthorne,CA,NA,Job Fair,41163,41163,Research & Development,engineering and science,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,SpaceX,Structures Engineer,Hawthorne,CA,NA,EOC,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Susquehanna International Group,Assistant Trader,Bala Cynwyd,PA,NA,Hired from Summer Internship,41163,41224,Sales & Trading,financial services,2
+2012,NA,United States,NA,BS,CIT,Chemical Engineering,NA,S12,E,Susquehanna International Group,Assistant Trader,Bala Cynwyd,PA,NA,Networking,41054,41061,Sales & Trading,financial services,NA
+2012,NA,India,NA,BS,CIT,Electrical & Computer Engineering,NA,S12,E,Susquehanna International Group,Tech,Philadelphia,PA,NA,NA,NA,NA,NA,financial services,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,E,Susquehanna International Group,GOLD Associate,Bala Cynwyd,PA,NA,TartanTRAK,40969,40969,Operations,financial services,1
+2012,NA,United States,NA,BS,MCS,Mathematical Sciences,NA,S12,E,Susquehanna International Group,Assistant Trader,NA,NA,NA,NA,NA,NA,Sales & Trading,financial services,NA
+2012,NA,United States,NA,BS,Dietrich,Psychology,Psychology,S12,E,Teach for America,Teacher,New York,NY,NA,Job Fair,41013,41024,Teaching,education,2
+2012,NA,United States,NA,BS,Dietrich,Social & Decision Sciences,International Relations and Politics,S12,E,Teach for America,Corps Member,Los Angeles,CA,NA,NA,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,CIT,Mechanical Engineering,NA,S12,E,Teach for America,Teacher,Newark,NJ,NA,online,NA,NA,NA,NA,NA
+2012,NA,United States,NA,BS,Tepper,Business Administration,NA,S12,V,Teach for America,Teacher,Indianapolis,IN,NA,NA,NA,NA,"Education: Alternate Certification (Teach for America, Chicago Teaching Fellows, etc.)",education,NA
+2012,NA,United States,NA,BS,CIT,Materials Science,NA,F11,E,Boeing,Fracture Analysis Engineer,Seattle,WA,NA,internship,NA,40848,Engineering,engineering and science,NA
+2012,NA,United States,NA,BS,MCS,Biological Sciences,NA,S12,E,UPMC,Research  Assistant,Pittsburgh,PA,NA,NA,40980,40980,Research (Technical/Scientific),biological sciences,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S13,E,Epic,Technical Services,Verona,WI,NA,TartanTRAK,NA,NA,Software Development,technology,1
+2013,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,POLMGMT,S13,E,IBM,Consultant in Strategy and Change- Internal Practice,New York,NY,NA,Networking,NA,NA,NA,consulting,4
+2013,Permanent Resident,United States,Male,BS,CIT,Materials Science,MSE,S13,E,Epic,Project Manager,Madison,WI,NA,TartanTRAK Job Fair,NA,NA,Project Engineering,technology,2
+2013,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S13,E,Accenture,Systems Integration Analyst,Philadelphia,PA,NA,Job Fair,NA,NA,Other Systems Engineer,consulting,3
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,Deloitte,Technology Risk,New York,NY,NA,TartanTRAK,8-Oct,8-Oct,Consulting: Finance,consulting,3
+2013,Permanent Resident,United States,Female,BS,MCS,Mathematical Sciences,MSCOR,S13,E,IBM,Software Solutions Developer,Dublin,OH,NA,TartanTrak,1/31/13,12-Feb,Computer Science: Computer Software Engineering and Development,computer science,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Aspen Technology,Assoc. Engineer,Nashua,NH,NA,Networking,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S13,E,ExxonMobil,Offsites Utilities Engineer,Fairfax,VA,NA,TT and Job Fairs,NA,NA,Engineer,energy,5
+2013,Non-US Citizen,Korea,Male,BS,Dietrich,Statistics,ECOSTA,S13,E,Deloitte,Tax Consultant,Washington,DC,NA,Networking,9-Feb,9-Mar,Consulting: Finance,consulting,2
+2013,Non-US Citizen,Korea,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Accenture,Analyst,Chicago,IL,NA,Networking,12-Aug,12-Oct,Consulting:Management,consulting,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Microsoft,Software Developer,Redmond,WA,NA,"Networking, Job Fairs",NA,NA,Software Development,technology,3
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,Networking,8-Oct,8-Nov,Consulting: Management/Strategy,consulting,1
+2013,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S13,E,Intel,Process Engineer,Phoenix,AZ,NA,"Job Fair, internet listing",NA,NA,Other Process Engineer,technology,2
+2013,Non-US Citizen,India,Male,BS,Tepper,Business Administration,BA,S13,E,PricewaterhouseCoopers,Advisory Associate,Chicago,IL,NA,Networking,8-Oct,8-Nov,Consulting: Management/Strategy,consulting,2
+2013,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCCAM,S13,E,Microsoft,Software Development Engineer,Redmond,WA,NA,Networking,8/31/12,12-Sep,Computer Science: Computer Software Engineering and Development,computer science,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Accenture,System Integration Analyst,Washington,DC,NA,Internet Job Posting,13-Jan,13-Feb,Engineering,engineering,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S13,E,Caterpillar,Associate Engineer,Peoria,IL,NA,TartanTrak,12-Aug,12-Oct,Engineering: Process Engineering (Chemical),transportation,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Ford Motor Company,FCG Electrical Engineer,Dearborn,MI,NA,"Networking, Job Fair",NA,NA,Electrical/Computer Engineering,manufacturing,3
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,General Electric,Commercial Leadership Program Member,Erie,PA,NA,Hired from summer internship,8-Aug,8-Aug,Marketing: Business Development/Sales,transportation,1
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S13,E,PNC,Risk Associate,Pittsburgh,PA,NA,Hired from Internship Experience,8-Aug,8-Oct,Finance: Risk Management,financial services/insurance,2
+2013,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S13,E,Merck,Associate Engineer,West Point,PA,NA,Summer Internship,13-Feb,13-Feb,Engineering:Process Engineering,healthcare,NA
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,IBM,CBD Consultant,Chicago,IL,NA,Hired from summer internship,8-Jul,8-Sep,Consulting: Management/Strategy,consulting,1
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Freddie Mac,Technology Analyst,McLean,VA,NA,TartanTRAK,8-Oct,8-Nov,Computer Science: Computer Systems Analysis,financial services/insurance,4
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,IBM,CBD Consultant,Washington,DC,NA,Job Fair,8-Sep,8-Oct,Consulting: Management/Strategy,consulting,2
+2013,U.S. Citizen,NA,Male,BS,Tepper,Business Administration,BA,F12,E,IBM,Market Insights - M&A Strategy,Armonk,NY,NA,TartanTRAK,8-Oct,8-Oct,Consulting: Management/Strategy,technology,3
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,IBM,GBS Consultant,New York,NY,NA,Hired from Summer Internship,8-Jul,8-Sep,Consulting: Management/Strategy,consulting,1
+2013,Permanent Resident,United States,Female,BS,Tepper,Business Administration,BA,S13,E,IBM,Global Business Services Consultant,Chicago,IL,NA,TartanTRAK,8-Aug,8-Nov,Consulting: Management/Strategy,consulting,3
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,F12,E,IBM,GBS Consultant,Washington,DC,NA,Networking,8-Sep,8-Oct,Consulting: Management/Strategy,consulting,1
+2013,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,ECOSTA,S13,E,IBM,GBS Consultant,New York,NY,NA,Job Fair,8-Sep,8-Nov,Consulting: Management/Strategy,consulting,4
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,Ernst & Young,Financial Consultant,New York,NY,NA,Job Fair,8-Sep,8-Oct,Consulting: Finance,consulting,2
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,IBM,Consultant,Boston,MA,NA,Job Fair,8-Sep,8-Oct,Consulting: Management/Strategy,consulting,1
+2013,NA,Korea,NA,BFA,CFA,Design,INDDES,S13,E,LinkedIn,Associate User Experience Designer,Mountain View,CA,NA,"Job Fair (CAOC, TOC, BOC, EOC, etc...)",41377,41379,Interaction/User Interface/UX Design,technology,2
+2013,Non-US Citizen,India,Female,BS,Tepper,Business Administration,BA,S13,E,PricewaterhouseCoopers,Risk Consultant,New York,NY,NA,Networking,8-Oct,8-Nov,Consulting: Finance,consulting,3
+2013,Non-US Citizen,India,Male,BS,CIT,Mechanical Engineering,MEG,S13,E,Deutsche Bank,Analyst,New York,NY,NA,TartanTrak,NA,NA,Funtional Analyst,investment banking,1
+2013,Non-US Citizen,Korea,Female,BS,MCS,Mathematical Sciences,MSCOR,F12,E,IBM,Risk Anaylst,Hoboken,NJ,NA,TartanTrak,3/26/13,3/27/13,Insurance,analytics,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Goldman Sachs,Market Risk Analyst,New York,NY,NA,None of the above were helpful,8-Sep,8-Oct,Finance: Risk Management,financial services/insurance,3
+2013,Permanent Resident,United States,Female,BS,MCS,Mathematical Sciences,MSCM,S13,E,Epic,Software Developer,Verona,WI,NA,TartanTrak,12/20/12,12/27/12,Computer Science: Computer Software Engineering and Development,software engineering,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Deutsche Bank,Analyst,New York,NY,NA,TartanTRAK,8-Jul,8-Aug,Finance: Sales & Trading,financial services/insurance,3
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,TartanTRAK,8-Sep,8-Oct,Consulting: Management/Strategy,consulting,4
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,TartanTRAK,8-Sep,8-Oct,Consulting: Management/Strategy,consulting,4
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S13,E,Capital One,Business Systems Analyst,McLean,VA,NA,TartanTRAK,8-Nov,8-Nov,Computer Science: Computer Systems Analysis,financial services/insurance,5
+2013,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S13,E,Capital One,Business Systems Analyst,McLean,VA,NA,Hired from Internship,NA,NA,Business Systems Analyst,finance,1
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,TartanTRAK,8-Jul,8-Jul,Consulting: Management/Strategy,consulting,3
+2013,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Qualcomm,Software Engineer,San Diego,CA,NA,Hired from summer internship,NA,NA,Electrical/Computer,technology,6
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Qualcomm,Software Engineer,Boulder,CO,NA,Tartantrak,NA,NA,Electrical/Computer,technology,NA
+2013,Permanent Resident,United States,Male,BS,MCS,Physics,PHY,S13,E,Amazon,Software Developer,Seattle,WA,NA,Job Fair,9/30/12,12-Oct,Computer Science,online sales,NA
+2013,NA,United States,NA,BFA,CFA,Design,INDDES,S13,E,Facebook,Product Designer,Menlo Park,CA,NA,"Job Fair (CAOC, TOC, BOC, EOC, etc...)",41367,41368,Interaction/User Interface/UX Design,technology,5
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Qualcomm,Embedded Software Engineer,Boulder,CO,NA,TartanTRAK,NA,NA,Electrical/Computer,technology,2
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,NA,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,INDDES,S13,E,UPMC,Product Analyst Intern,Pittsburgh,PA,NA,"Networking (i.e. Faculty Advisor, Friends, Family)",41348,41379,Product Development/Management,technology,NA
+2013,Non-US Citizen,Korea,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F12,E,IBM,IT Consultant,Seoul,South Korea,NA,Networking,NA,NA,NA,NA,2
+2013,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,BNY Mellon,Technology Senior Associate,Pittsburgh,PA,NA,Tartantrak,NA,NA,NA,finance,4
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S13,E,Teach for America,2013 Houston Corps Member,Houston,TX,NA,NETWORKING,NA,NA,NA,non-profit,2
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S13,E,Teach for America,Teacher,Chicago,IL,NA,Networking,NA,NA,NA,non-profit,2
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Philosophy,EHPP,S13,E,Teach for America,Elementary School Teacher,NA,OK,NA,Networking,NA,NA,NA,non-profit,1
+2013,U.S. Citizen,Hong Kong,Female,BS,SCS,Computer Science,CS,S13,E,Salesforce.com,Software Development Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F12,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,Philippines,Male,BS,SCS,Computer Science,CS,S13,E,Apple,Firmware Engineer,Cupertino,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Los Angeles,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Palantir,Simulation Software Engineer,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,NA,NA,NA
+2013,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Interaction Designer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Korea,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Engineer,Sunnyvale,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Developer,San Bruno,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Testing,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Salesforce.com,Software Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Bellevue,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Salesforce.com,Product Security Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Palantir,Forward Deployed Engineer,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Developer,Redmond,WA,NA,Hired from summer internship,NA,NA,Computer Science: Software Development,technology,4
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,India,Male,BS,SCS,Computer Science,CS,S13,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Palantir,Platform Developer,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F12,E,Facebook,Software Engineer,New York,NY,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Salesforce.com,Software Development Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,F12,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,Permanent Resident,United States,Female,BS,SCS,Computer Science,CS,F12,E,Google,Software Engineer,Kirkland,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Salesforce.com,Software Development Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Canada,Male,BS,SCS,Computer Science,CS,S13,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,English,CW,S13,E,Microsoft,Game Designer,Seattle,WA,NA,Networking,NA,NA,NA,technology,2
+2013,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,Deloitte,Technology Consulting,Harrisburg,PA,NA,networking,NA,NA,NA,NA,4
+2013,NA,NA,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F12,E,Google,Interaction Designer,New York,NY,NA,neworking,NA,NA,NA,technology,5
+2013,Permanent Resident,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,Ernst & Young,Technology Consultant,San Francisco,CA,NA,Job  fair,NA,NA,NA,consulting,3
+2013,Permanent Resident,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F12,E,IBM,Consultant,New York,NY,NA,Job fair,NA,NA,NA,consulting,5
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,POLMGMT,S13,E,Accenture,"Business Analyst, Management Consulting track",Washington,DC,NA,my experience leading SIFE (now Enactus) for a year,NA,NA,NA,consulting,1
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Oracle,Verilog Design,Atlanta,GA,NA,NA,NA,NA,Software Development,technology,NA
+2013,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSCNSC,S13,E,National Institutes of Health,Structural Biology Research Fellow,Bethesda,MD,NA,NA,NA,NA,NA,NA,NA
+2013,NA,NA,NA,BS,MCS,Biological Sciences,BSC,S13,E,UPMC,Clinical Researcher,Allison Park,PA,NA,NA,NA,NA,NA,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,INDDES,S13,E,IBM,UX Designer,Austin,TX,NA,NA,NA,NA,NA,NA,NA
+2013,Permanent Resident,United States,Female,BS,MCS,Biological Sciences,BSC,S13,E,IBM,Consultant,Seoul,South Korea,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Korea,Female,BS,Dietrich,Psychology,PSY,S13,G,TBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S13,E,IBM,Consulting by Degrees Consultant,New York,NY,NA,"TartanTRAK, Job Fair",NA,NA,Consulting,technology,5
+2013,Non-US Citizen,Turkey,Female,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,MCS,Physics,PHY,S13,E,National Institutes of Health,Post-Bac Fellow,Bethesda,MD,NA,Networking,2/28/13,13-Feb,Research,government,NA
+2013,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,National Institutes of Health,Postdoctoral Trainee,Washington,DC,NA,Networking,NA,NA,NA,NA,NA
+2013,Permanent Resident,United States,Female,BS,Dietrich,Statistics,ECOSTA,F12,E,PricewaterhouseCoopers,Advisory Associate,New York,NY,NA,TartanTRAK,8-Jul,NA,Consulting: Management/Strategy,consulting,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,PNC,Undisclosed,Pittsburgh,PA,NA,NA,NA,NA,NA,financial services/insurance,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,F12,E,PNC,Corporate Banking Analyst,Pittsburgh,PA,NA,Networking,8-Sep,8-Oct,Finance: Corporate,financial services/insurance,4
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S13,G,TBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,Electrical and Computer Engineering,S13,E,Palantir,Forward Deployed Engineer,Palo Alto,CA,NA,NA,NA,NA,Electrical/Computer,technology,NA
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,Deloitte,Enterprise Risk Services Consultant,New York,NY,NA,Networking,8-Jul,8-Aug,Consulting: Finance,consulting,0
+2013,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,ECOSTA,F12,E,Epic Systems,Problem Solver,Madison,WS,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BFA,CFA,Architecture,ARC,S13,E,TBD,NA,Bay Area,CA,NA,NA,NA,NA,NA,fashion,NA
+2013,Non-US Citizen,Singapore,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,IBM,Consultant in Strategy and Change- Internal Practice,New York,NY,NA,Networking,NA,NA,NA,consulting,4
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,IBM,Market Development and Insights,New York,NY,NA,TartanTRAK,NA,NA,Consulting: Management/Strategy,technology,NA
+2013,NA,Canada,NA,BFA,CFA,Design,COMDES,Summer13,E,Microsoft,User Experience Designer,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Korea,Male,BS,SCS,Computer Science,CS,S13,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,NA,NA,NA
+2013,NA,Korea,NA,BFA,CFA,Design,COMDES,S13,E,Microsoft,User Experience Designer,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,Permanent Resident,United States,Male,BS,MCS,Mathematical Sciences,MSCOR,S13,E,Susquehanna International Group,Technology Intern,Philadelphia,PA,NA,NA,NA,NA,NA,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,COMDES,S13,E,IBM,UX Designer,Austin,TX,NA,"Networking (i.e. Faculty Advisor, Friends, Family)",39814,41334,Creative: Interaction Design,technology,3
+2013,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S13,E,Merck,Associate Process Specialist,Elkton,VA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CEE,S13,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,Internet Job Listing,13-Nov,13-Dec,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S13,E,Intel,mechanical engineer,Hillsboro,OR,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Dropbox,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,Electrical/Computer,technology,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S13,E,Boeing,Structural/Payload Design Engineer,St. Louis,MO,NA,networking,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CEE,S13,E,Schlumberger,Field Engineer,Midland,TX,NA,Job Fair/Networking/Hired from summer internship,12-Oct,12-Nov,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S13,E,Teach for America,High School Physics Teacher,NA,NC,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Developer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,INDDES,S13,E,IBM,UX Designer,Austin,TX,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,INTRELP,S13,E,IBM,Consultant,New York,NY,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Epic Systems,Software Developer,Madison,WI,NA,NA,NA,NA,Electrical/Computer,technology,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Qualcomm,Software Engineer,San Diego,CA,NA,NA,NA,NA,Electrical/Computer,technology,NA
+2013,U.S. Citizen,United States,Female,BS,CFA,Music,MPVOI,S13,F,Self-Employed,Vocalist,NA,NJ,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S13,E,Chrysler,Chrysler Institute of Engineering,Auburn Hills,MI,NA,internship,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S13,E,Boeing,Composites Intern,Seattle,WA,NA,NA,NA,NA,Materials Engineer,manufacturing,1
+2013,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Aspen Technology,Associate Product Management Professional,Burlington,MA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S13,E,Microsoft,Reliability Engineer,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CEE,S13,E,Schlumberger,Field Engineer,Midland,TX,NA,Job Fair/Networking,12-Oct,12-Dec,Cementing,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,COMDES,S13,E,Microsoft,User Experience Designer,Midland,MI,NA,Hired from Internship Experience,40037,41590,Creative: Interaction Design,technology,1
+2013,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S13,E,National Institutes of Health,Researcher in the Laboratory of Immunology,Bethesda,MD,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,Singapore,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S13,E,IBM,NA,New York,NY,NA,NA,NA,NA,NA,consulting,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Bank of America,Business Control Analyst,Dallas,TX,NA,NA,NA,NA,Analyst: Business Analyst,financial services/insurance,NA
+2013,Non-US Citizen,Korea,Male,BS,Dietrich,Economics,ECO,F12,E,Samsung,Associate,Seoul,South Korea,NA,NA,NA,NA,Management: Management Trainee (Entry-Level Management),manufacturing,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,PNC,Financial Analyst,Pittsburgh,PA,NA,Hired from Summer Internship,8-Jul,8-Oct,Finance: Financial Analysis,financial services/insurance,3
+2013,U.S. Citizen,United States,Female,BS,CFA,Art,ART,S13,E,Disney Research,Lab Assistant,Pittsburgh,PA,NA,NA,NA,NA,NA,entertainment,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F12,E,Intel,Graphics Software Engineer,Santa Clara,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S13,E,Microsoft,emailed to get,Seattle,WA,NA,internship,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Caterpillar,Electrical Engineering,East Peoria,IL,NA,OCR,NA,NA,Electrical/Computer,manufacturing,NA
+2013,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S13,E,Salesforce.com,"Associate Member, Technical Staff",San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F12,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Korea,Female,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,Goldman Sachs,Application Developer,New York,NY,NA,TartanTrak,NA,NA,NA,finance,3
+2013,U.S. Citizen,United States,Male,BS,CFA,Art,ART,S13,E,Disney Research,Lab Associate,Pittsburgh,PA,NA,networking,NA,NA,3D modeler / sculptor,arts and entertainment,NA
+2013,U.S. Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Oracle,Microsoft Transaction Server,Redwood City,CA,NA,NA,NA,NA,Electrical/Computer,technology,NA
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,Goldman Sachs,Operations Analyst,Salt Lake City,UT,NA,TartanTRAK,8-Oct,8-Nov,Management: Operations,financial services/insurance,3
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Microsoft,Program Manager,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S13,E,Epic Systems,Technical Services,Madison,WI,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,Capital One,I.T. Development,Wilmington,DE,NA,NA,NA,NA,NA,NA,NA
+2013,NA,NA,NA,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Intel,Validation Engineer,NA,CA,NA,NA,NA,NA,Electrical/Computer Engineering,technology,NA
+2013,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,IBM,IT Consultant,Columbus,OH,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,BNY Mellon,UX Designer,New York,NY,NA,I went to their career site and applied online.,9-Apr,9-Apr,Computer Science: Computer Systems Analysis,financial services/insurance,1
+2013,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CEE,S13,V,Teach for America,Corps Member/Teacher,New Orleans,LA,NA,NA,3/13/13,13-Apr,Teacher,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Accenture,System Integration Consulting Analyst,Philadelphia,PA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S13,G,TBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S13,E,Bank of America,Quantitative Management Associate,Charlotte,NC,NA,NA,NA,NA,NA,NA,NA
+2013,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Electrical/Computer Engineering,technology,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S13,E,Goldman Sachs,Operations Analyst,Salt Lake City,UT,NA,Hired from summer internship,NA,NA,Management: Operations,financial services/insurance,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Developer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,POLMGMT,S13,E,PNC,Risk Management Development,Pittsburgh,PA,NA,NA,NA,NA,NA,finance,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Oracle,Operations Program Manager,Burlington,MA,NA,Networking,9-May,9-May,Management: Operations,technology,1
+2013,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S13,E,Teach for America,High School English Teacher,Latta,SC,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,M,S13,E,Teach for America,High School Math Teacher,Newark,NJ,NA,NA,NA,NA,NA,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,COMDES,S13,E,IBM,Software Product Designer,Austin,TX,NA,Job Fair- COAC,NA,NA,NA,NA,2
+2013,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Merck,Engineer,New Brunswick,NJ,NA,TartanTrak,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F12,E,Goldman Sachs,Technology Analyst,New York,NY,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Dveloper,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CFA,Art,HSSART,S13,E,Self-Employed,Artist,NA,NA,NA,NA,NA,NA,NA,video games and painting,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S13,E,SpaceX,Structures Engineer,Los Angeles,CA,NA,internship,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S13,E,Susquehanna International Group,GOLD Associate,Philadelphia,PA,NA,TartanTRAK,13-Apr,13-May,Operations/Production Management,financial services/insurance,NA
+2013,Non-US Citizen,Turkey,Female,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,United Kingdom,Male,BS,Dietrich,Social & Decision Sciences,INTRELP,S13,E,Teach for America,Teacher,Newark,NJ,JD,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Korea,Male,BS,Dietrich,Social & Decision Sciences,POLMGMT,S13,E,Salesforce.com,Technical Writing Intern,San Francisco,CA,NA,NA,NA,NA,NA,NA,0
+2013,Permanent Resident,United States,Male,BS,MCS,Mathematical Sciences,MSCCAM,S13,E,Epic,Software Developer,Madison,WI,NA,TartanTrak,10/31/12,12-Nov,Computer Science: Computer Software Engineering and Development,healthcare,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,POLMGMT,S13,G,TBD,Post -bach Pre-med program,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Palantir,Software Engineer,Palo Alto,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,NA,BS,SCS,Computer Science,CS,S13,E,Google,Platform Solutions Consultant,New York,NY,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,F12,E,IBM,Consultant,New York,NY,"$77,000 ",NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CFA,Art,ART,S13,E,Disney Research,Lab Associate,Pittsburgh,PA,NA,networking,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S13,E,Intel,CAD (Computer Automated Design) Engineer,Hillsboro,OR,NA,NA,12-Oct,12-Nov,Engineering,technology,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S13,E,Ford Motor Company,Product Development,Dearborn,MI,NA,NA,NA,NA,sustainability mobility technology,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CFA,Art,ART,Summer13,E,Self-Employed,Artist and Entrepreneur (co-founder),San Francisco,CA,NA,NA,NA,NA,artist and sales,gallery / studio / beautique,NA
+2013,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S13,E,PNC,Risk Analyst,Pittsburgh,PA,NA,NA,NA,NA,Finance: Risk Management,financial services/insurance,NA
+2013,Non-US Citizen,Malaysia,Male,BS,CIT,Chemical Engineering,CHE,S13,E,Palantir,Software Engineer,Palo Alto,CA,NA,Summer Internship,12-Jul,12-Aug,Computer Science:Computer Software Engineering and Development,computer science,NA
+2013,Non-US Citizen,Korea,Male,BS,Dietrich,Economics,ECO,S13,E,Samsung,Corporate Finance,Seoul,South Korea,NA,NA,NA,NA,Finance: Corporate,manufacturing,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Bellevue,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S13,E,PNC,Model Validation Analyst,Pittsburgh,PA,NA,Networking,9-Mar,9-Mar,Finance: Financial Analysis,financial services/insurance,1
+2013,U.S. Citizen,United States,Female,BS,Dietrich,English,CW,S13,NS,TBD,Fine Arts,NA,NA,MFA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Apple,Hardware Engineer,Cupertino,CA,NA,NA,NA,NA,Electrical/Computer,technology,NA
+2013,Non-US Citizen,Thailand,Female,BS,MCS,Mathematical Sciences,MSCM,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CFA,Art,ART,Summer13,E,Self-Employed,Artist,Pittsburgh,PA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,F12,E,Google,Associate Account Strategist,San Francisco,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CFA,Art,BIOART,S13,E,Self-Employed,Artist,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S13,E,Goldman Sachs,Analyst,Jersey City,NJ,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Microsoft,Software Development Engineer,Redmond,WA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Apple,Audio Engineer,Cupertino,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S13,E,Accenture,Technical Analyst Consultant,Sacramento,CA,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,China,Female,BS,MCS,Mathematical Sciences,MSCM,S13,E,Oracle,Software Engineer,Redwood Shores,CA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S13,G,TBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CFA,Other,Film,F12,E,Self-Employed,Artist,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013,NA,United States,NA,BFA,CFA,Design,COMDES,S13,E,IBM,UX Designer,Austin,TX,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Female,BS,CFA,Art,ART,S13,E,Self-Employed,Artist,Pittsburgh,PA,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,Hong Kong,Male,BS,MCS,Mathematical Sciences,MSCORSTA,S13,E,Epic,Technical Services,Madison,WI,NA,NA,NA,NA,NA,NA,NA
+2013,Non-US Citizen,Korea,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F12,E,IBM,IT Consultant,Seoul,South Korea,NA,NA,NA,NA,NA,NA,NA
+2013,U.S. Citizen,United States,Male,BS,CFA,Music,HSSMUS,S13,E,Self-Employed,Writer,Mahwah,NJ,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,SpaceX,Tooling Design Engineer,Los Angeles,CA,NA,Hired from summer internship,41487,41518,Engineering: Mechanical,manufacturing,3
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Assurance Engineer,Houston,TX,NA,networking,41456,41579,Engineering Other,energy,3
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Ford Motor Company,Product Development Engineer,Detroit,MI,NA,Job Fair,NA,41609,Engineering: Mechanical,manufacturing,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,General Electric,Sales Engineer,Philadelphia,PA,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Flow Assurance Engineer,Pittsburgh,PA,NA,networking,NA,NA,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Accenture,Consultant,Pittsburgh,PA,NA,tartantrak,NA,NA,Consulting: Management/Strategy,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Schlumberger,Unknown,NA,TX,NA,NA,NA,NA,Engineering: Field Engineering,energy,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Engineer,NA,NA,NA,TartanTRAK,NA,NA,Engineering,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Accenture,Consultant,New York,NY,NA,TartanTRAK & Hired from summer internship,41548,41579,Consulting: Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Accenture,Systems Integration Analyst,Washington,DC,NA,TartanTRAK,NA,NA,Analyst: Business,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Process Design Engineer,Washington DC,NA,NA,hired from summer internship,41518,41579,Engineering Other,energy,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Aspen Technology,Assoicate Engineer,Melrose,MA,NA,Networking,NA,NA,Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Supply Logistics Coordinator,Arlington,VA,NA,TartanTRAK,NA,NA,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Ford Motor Company,FCG,Dearborn,MI,NA,"TartanTRAK, Networking & Job Fairs",NA,NA,Engineering: Mechanical,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Accenture,Systems Integration Analyst,Washington DC,NA,NA,TartanTRAK,NA,NA,Analyst Other,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Aspen Technology,NA,NA,NA,NA,NA,NA,NA,NA,technology,NA
+2014,U.S. Citizen,Japan,Female,BS,CIT,Chemical Engineering,CHE,S14,E,BNY Mellon,Associate,New York,NY,NA,TartanTRAK,41579,41579,Finance Other,financial services,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S13,E,Schlumberger,Field Engineer,Midland,TX,NA,NA,NA,NA,Field Engineering,engineering,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Aspen Technology,NA,NA,NA,NA,NA,NA,NA,NA,technology,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,Microsoft,Hardware Engineer,Seattle,WA,NA,Job Fair,NA,NA,Engineer: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Accenture,Business & Systems Integration Analyst,Pittsburgh,PA,NA,networking,NA,NA,Business Analyst,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,Schlumberger,Field Engineer,Oklahoma City,OK,NA,NA,41579,41640,Field Engineering,engineering,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Accenture,Consulting Analyst,Pittsburgh,PA,NA,TartanTRAK,NA,NA,Analyst Other,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Schlumberger,Field Engineer,Canonsburg,PA,NA,networking,NA,NA,Field Engineering,engineering,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Civil & Environmental Engineering,CIV,S14,E,IBM,Consultant,New York,NY,NA,Networking,41730,41760,Consulting Management/Strategy,consulting,5
+2014,Non-US Citizen,India,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Ernst & Young,Staff,New York,NY,NA,Networking,41548,41579,Management: Human Resources,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Mechanical Engineering,MEG,S14,E,National Institutes of Health,Researcher,Bethesda,MD,NA,NA,NA,NA,Research,education,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Boeing,Customer Support Engineer,Long Beach,CA,NA,Networking,NA,NA,Engineering: Project Engineering,manufacturing,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Sales Engineer,Fairfax,VA,NA,job fair,41579,41579,Engineering Other,energy,4
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Analyst,Houston,TX,MS,internship,NA,NA,Analyst Other,energy,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,BlackRock,Analyst,New York,NY,NA,Networking & TartanTRAK,41548,41579,Finance: Financial Analysis,financial services,4
+2014,U.S. Citizen,United States,Female,BS,CIT,Chemical Engineering,CHE,S14,E,Accenture,Business & Systems Integration Analyst,Pittsburgh,PA,NA,networking,NA,NA,Business Analyst,consulting,NA
+2014,U.S. Citizen,Other,Male,BS,CIT,Mechanical Engineering,MEG,S14,E,Deutsche Bank,Corporate Finance Analyst,New York,NY,NA,Internship,NA,NA,Finance: Financial Analysis,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Contact Engineer,Houston,TX,NA,Job Fair,NA,NA,Engineering Other,energy,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Goldman Sachs,Technical Analyst,New York,NY,NA,NA,NA,NA,Engineering: Electrical/Computer,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Schlumberger,Field Engineer,Conway,AR,NA,networking,NA,NA,Field Engineering,engineering,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Merck,Associate Engineer,Hoboken,NJ,NA,Online Job Listing Site,41671,41699,Engineering,pharmaceuticals,4
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,Epic Systems,NA,Madison,WI,NA,NA,NA,NA,NA,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Chemical Engineering,CHE,S14,E,ExxonMobil,Technial Sales,Vienna,VA,NA,Job Fair,NA,NA,Business Development/Sales,energy,NA
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Facebook,Software Engineer,San Francisco,CA,NA,Tartantrak,NA,NA,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,LinkedIn,Software Engineer,San Francisco,CA,NA,TartanTrack,NA,NA,Engineering: Electrical/Computer,marketing/communications,3
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,Amazon,Software Engineer,Tampa,FL,NA,Job Fair,NA,NA,Engineering: Electrical/Computer,retail,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Materials Science,MSE,S14,E,Accenture,Business & Systems Integration Analyst,Pittsburgh,PA,NA,TartanTRAK,NA,NA,Engineering: Materials,consulting,1
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Microsoft,Hardware Intern,Seattle,WA,NA,Job Fair,NA,NA,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,Taiwan,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Apple,Rotational Software Engineer,Cupertino,CA,NA,NA,NA,NA,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,Accenture,Consultant,New York,NY,NA,NA,NA,NA,Analyst: Business,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,TartanTRAK,NA,NA,Engineering: Electrical/Computer,retail,2
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,Intel,CAD Research Intern,Hillsboro,OR,NA,"Netowrking, Hired from intership",NA,NA,Research and Development,technology,1
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Google,Software Engineer,Mountain View,CA,NA,Hired from internship Experience,NA,NA,Engineering: Electrical/Computer,technology,1
+2014,Non-US Citizen,Korea,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Goldman Sachs,Technology Analyst,New York,NY,NA,TartanTRAK,NA,NA,Engineering: Electrical/Computer,financial services,3
+2014,U.S. Citizen,United States,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Microsoft,Program Manager,Seattle,WA,NA,Job Fair,NA,NA,Engineering: Electrical/Computer,technology,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S15,E,Amazon,Software Development Engineer,Seattle,WA,NA,Job Fair,NA,NA,Engineering: Electrical/Computer,retail,2
+2014,U.S. Citizen,Taiwan,Female,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Dropbox,Software Development Engineer,San Francisco,CA,NA,TartanTRAK,NA,NA,Engineering: Electrical/Computer,technology,5
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Google,Software Engineer,Pittsburgh,PA,NA,NA,NA,NA,Engineering: Electrical/Computer,technology,NA
+2014,Permanent Resident,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Samsung,Intern,New York,NY,NA,NA,NA,NA,Engineering: Electrical/Computer,technology,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Palantir Technologies,Infrastructure Quality Engineer,Palo Alto,CA,NA,Hired from summer internship,NA,NA,Engineering: Electrical/Computer,technology,1
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Google,Software Engineer,Mountain View,CA,NA,Job Fair,NA,NA,Engineering: Electrical/Computer,technology,3
+2014,Non-US Citizen,India,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Amazon,Software Devlopment Engineer,Seattle,WA,NA,Hired from Internship,NA,NA,Engineering: Electrical/Computer,retail,NA
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Palantir Technologies,User Experience Software Engineer,Palo Alto,CA,NA,Hired from Internship,NA,NA,Engineering: Electrical/Computer,technology,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Qualcomm,Display Software Engineer,Boston,MA,NA,TartanTRAK,NA,NA,Engineering: Electrical/Computer,technology,3
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,IBM,Business Analystics Consultant,Washington,DC,NA,Networking,NA,NA,Engineering: Materials,technology,2
+2014,U.S. Citizen,United States,Female,BS,CIT,Materials Science,MSE,S14,E,General Electric,"Operations Management Leadership Program, Transportation",Erie,PA,NA,Hired from internship,NA,NA,Management: Operations,manufacturing,1
+2014,U.S. Citizen,United States,Male,BS,CIT,Electrical & Computer Engineering,ECE,S14,E,Google,Software Engineer,New York,NY,NA,Hired from internship,NA,NA,Engineering: Electrical/Computer,technology,2
+2014,Non-US Citizen,India,NA,BS,CIT,Electrical & Computer Engineering,ECE,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,TartanTRAK,NA,NA,Engineering: Electrical/Computer,retail,3
+2014,U.S. Citizen,United States,Male,BFA,CFA,Design,INDDES,S14,E,Facebook,Product Designer,Menlo Park,CA,NA,NA,NA,NA,NA,technology,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Design,INDDES,S14,E,IBM,Senior Industrial Designer,Austin,TX,NA,NA,NA,NA,NA,consulting,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,COMDES,S14,E,IBM,Software Product Designer,Austin,TX,NA,Job Fairs/CAOC/Confluence,NA,NA,NA,consulting,NA
+2014,Non-US Citizen,China,Male,BFA,CFA,Design,COMDES,S14,E,LinkedIn,Associate User Experience Designer,Mountain View,CA,NA,Job Fairs/CAOC/Confluence,NA,NA,Design,design,NA
+2014,U.S. Citizen,United States,Male,BFA,CFA,Art,ART,S14,E,Epic Systems,Corporate Recruiter,Verona,WI,NA,NA,NA,NA,NA,technology,NA
+2014,Permanent Resident,United States,Female,BFA,CFA,Design,COMDES,S14,E,Google,Interaction Designer,Mountain View,CA,NA,Job Fairs/CAOC/Confluence,NA,NA,Design,technology,4
+2014,U.S. Citizen,India,Female,BFA,CFA,Design,COMDES,S14,E,LinkedIn,User Experience Designer,Mountain View,CA,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Design,INDDES,S14,E,IBM,Software Product Designer,Austin,TX,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Female,BFA,CFA,Art,PHYART,S14,E,National Institutes of Health,Research Assistant,Bethesda,MD,NA,NA,NA,NA,NA,education,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,COMPFIN,S14,E,BNY Mellon,Associate,New York,NY,NA,TartanTRAK,41579,41579,Finance:Other,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,BlackRock,Analyst,New York,NY,NA,Hired from summer internship,41487,41579,Finance:Financial Analysis,financial services,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Susquehanna International Group,Analyst,Bala Cynwyd,PA,NA,TartanTRAK,41671,41671,Management:Operations,financial services,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAGENMAN,S14,E,PNC,Real Estate Banking Rotation Program,Pittsburgh,PA,NA,TartanTRAK,41518,41548,Finance:Other,financial services,2
+2014,Non-US Citizen,China,Male,BS,Tepper,Business Administration,BA,S14,E,BlackRock,Advisory Analytics Analyst,New York,NY,NA,NA,NA,NA,Finance:Financial Analysis,financial services,NA
+2014,Non-US Citizen,China,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Citi,Global Risk Analyst,New York,NY,NA,TartanTRAK,41579,41579,Finance:Risk Management,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Deloitte,Business Analyst,Philadelphia,PA,NA,TartanTRAK,41579,41609,Consulting:Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAGENMAN,S14,E,IBM,Consultant,Washington,DC,NA,TartanTRAK,41548,41579,Consulting:Management/Strategy,consulting,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAITM,S14,E,PricewaterhouseCoopers,Management Consultant Associate,New York,NY,NA,Hired from summer internship,41487,41487,Consulting:Management/Strategy,consulting,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BA,S14,E,IBM,Website and Communications Specialist,Pittsburgh,PA,NA,Internet Job Listing Site,41760,41760,Communications:Other,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,IBM,Consultant,Philadelphia,PA,NA,TartanTRAK,41548,41579,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,IBM,Consultant,Washington,DC,NA,TartanTRAK,41548,41579,Consulting:Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,PricewaterhouseCoopers,Risk Consulting Associate,New York,NY,NA,Networking,41548,41548,Consulting:Other,consulting,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAGENMAN,S14,E,Teach for America,NA,Baltimore,MD,NA,NA,NA,NA,Social Services:Teaching,education,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Citi,"Analyst, Capital Markets Origination",New York,NY,NA,Hired from Summer Internship,41487,41518,Finance:Investment Banking,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,PNC,Investment Banking Analyst,Pittsburgh,PA,NA,TartanTRAK,41671,41671,Finance:Investment Banking,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,PNC,Investment Banking Analyst,New York,NY,NA,TartanTRAK,41548,41579,Finance:Investment Banking,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,TartanTRAK,NA,NA,Consulting:Management/Strategy,consulting,NA
+2014,Non-US Citizen,China,Male,BS,Tepper,Business Administration,BAGENMAN,F13,E,Citi,Analyst,Miami,FL,NA,NA,NA,NA,Finance:Financial Analysis,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAENT,S14,E,JP Morgan Chase,Marketing Analyst,Wilmington,DE,NA,TartanTRAK,41671,41730,Marketing:Other,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,PNC,Equipment Finance Analyst,Pittsburgh,PA,NA,TartanTRAK,41548,41548,Finance:Financial Analysis,financial services,2
+2014,Non-US Citizen,Korea,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Deloitte,Audit Assistant,New York,NY,NA,NA,NA,NA,Finance:Accounting,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAIMN,S14,E,Chrysler,Business Systems Analyst,Auburn Hills,MI,NA,Job Fair,41548,41579,IT:Analyst,manufacturing,NA
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,IBM,Consultant,New York,NY,NA,NA,41579,41609,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Accenture,Corporate Finance Analyst,New York,NY,NA,On-line Job Listing Site,41579,41579,Finance:Corporate,consulting,1
+2014,Non-US Citizen,India,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Deloitte,Advisory Analyst,New York,NY,NA,NA,NA,NA,Consulting:Finance,consulting,NA
+2014,Permanent Resident,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,Citi,Management Associate,Hong Kong,Hong Kong,NA,TartanTRAK,41671,41671,Finance:Investment Banking,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAIMN,S14,E,IBM,Consultant,San Francisco,CA,NA,Job Fair,41548,41579,Consulting:Management/Strategy,consulting,4
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,PricewaterhouseCoopers,Management Consultant Associate,New York,NY,NA,Hired from summer internship,41487,41579,Consulting:Management/Strategy,consulting,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN; BACIT,S14,E,Deutsche Bank,Technology Analyst,New York,NY,NA,TartanTRAK,41548,41609,IT:Analyst,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,PNC,Asset & Liability Management Analyst,New York,NY,NA,TartanTRAK,41579,41579,Finance:Asset/Portfolio Management,financial services,1
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Citi,Sales & Trading Analyst,New York,NY,NA,Your Career Consultant/the Career Center,41548,41548,Finance:Sales and Trading,financial services,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BA,S14,E,JP Morgan Chase,Treasury Services Analyst,New York,NY,NA,TartanTRAK,41487,41487,Finance:Financial Analysis,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,JP Morgan Chase,Treasury Services Analyst,New York,NY,NA,Hired from summer internship,41456,41456,Finance:Financial Analysis,financial services,1
+2014,Non-US Citizen,Japan,Female,BS,Tepper,Business Administration,BAITM,S14,E,Deloitte,Tax Consultant,Los Angeles,CA,NA,Internet Job Listing Site,41671,41699,Consulting:Finance,consulting,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAGENMAN,S14,E,Citi,"Analyst, Capital Markets Origination",New York,NY,NA,Hired from summer internship,41487,41518,Finance:Investment Banking,financial services,2
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAMARK,S14,E,IBM,NA,NA,NA,NA,NA,NA,NA,Consulting:Management/Strategy,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,TartanTRAK,41487,41518,Consulting:Management/Strategy,consulting,3
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAITM,S14,E,Microsoft,Associate Consultant,Seattle,WA,NA,Job Fair,41609,41609,Consulting:IT,technology,2
+2014,U.S. Citizen,United States,Female,BS,Tepper,Business Administration,BAFIN,S14,E,General Electric,Financial Management Program,Houston,TX,NA,NA,NA,NA,Finance:Other,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAIMN,S14,E,PricewaterhouseCoopers,Management Consultant Associate,Los Angeles,CA,NA,Networking,41548,41579,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Male,BS,Tepper,Business Administration,BAFIN,S14,E,BlackRock,Analyst,San Francisco,CA,NA,TartanTRAK,41671,41671,Finance:Financial Analysis,financial services,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,STA,S14,E,Freddie Mac,Technology Analyst,Arlington,VA,NA,TartanTRAK,41956,41956,Analyst: Data,financial services,1
+2014,Non-US Citizen,Philippines,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Apple,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Deloitte,Business Analyst,Pittsburgh,PA,NA,NA,NA,NA,Business Analyst,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,PricewaterhouseCoopers,Technology Consultant,Dallas,TX,NA,NA,NA,NA,IT,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,IBM,Consultant,Washington,DC,NA,NA,NA,NA,NA,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Epic Systems,Technical Services,Madison,WI,NA,NA,NA,NA,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,PricewaterhouseCoopers,Associate Management Consultant,Chicago,IL,NA,NA,NA,NA,Management/Strategy,consulting,NA
+2014,U.S. Citizen,Taiwan,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,IBM,Associate Consultant,San Francisco,CA,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F13,E,JP Morgan Chase,Analyst,New York,NY,NA,NA,NA,NA,Financial Analyst,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F13,E,BNY Mellon,Senior Associate,Pittsburgh,PA,NA,NA,NA,NA,Business Analyst,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,INTRELP,S14,E,Deloitte,Technology Consultant,Dallas,TX,NA,NA,NA,NA,IT Analyst,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Microsoft,Associate Consultant,Seattle,WA,NA,NA,NA,NA,Other,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Psychology,PSY,S14,E,PNC,Intern Advertising Analyst,Pittsburgh,PA,NA,NA,NA,NA,Business Analyst,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Apple,Information Technology Development Rotational Program,Cupertino,CA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,IBM,Global Business Consultant,Herndon,VA,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,Non-US Citizen,Singapore,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,Deloitte,Business Technology Analyst,Pittsburgh,PA,NA,NA,NA,NA,IT Analyst,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,F13,E,IBM,Consultant,Washington,DC,NA,Job Fair,41925,41956,Consulting: Management/Strategy,consulting,4
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Philosophy,EHPP,S14,E,Citi,Risk Management modeling analyst,New York,NY,NA,NA,NA,NA,Financial Analysis,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Google,Prototyper,Mountain View,CA,NA,NA,NA,NA,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,PricewaterhouseCoopers,Technology Consultant,San Francisco,CA,NA,NA,NA,NA,IT,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,F13,E,IBM,Consultant,New York,NY,NA,NA,NA,NA,Consulting:Management/Strategy,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,ECOSTA,S14,E,Caterpillar,Information Analyst,Peoria,IL,NA,TartanTRAK,41986,41653,Analyst: Data,manufacturing,NA
+2014,Non-US Citizen,Korea,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,F13,E,IBM,Technology Consultant,NA,South Korea,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Deloitte,Summer Scholar,NA,NA,NA,NA,NA,NA,NA,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,TWCM,S14,E,Microsoft,Consumer Writer,Seattle,WA,NA,NA,NA,NA,Communications: Writing/Editing,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,JP Morgan Chase,Technology Analyst,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,Hong Kong,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,IBM,Technology Consultant,San Francisco,CA,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Statistics,STA,S14,E,PNC,Risk Associate,Pittsburgh,PA,NA,Hired from summer internship,41895,41925,Analyst: Data,financial services,1
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,Bank of America,Operations Management Analyst,Charlotte,NC,NA,NA,NA,NA,Business Analyst,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,History,GS,S14,E,IBM,Consulting (GBS),Chicago,IL,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,History,GS,S14,E,IBM,Consulting Public Sector,Washington,DC,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,PW,S14,E,Microsoft,Content Publisher,Redmond,WA,NA,LinkedIn,NA,41669,Communications: Writing/Editing,technology,2
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Statistics,ECOSTA,S14,E,JP Morgan Chase,Marketing Analyst,New York,NY,NA,NA,NA,NA,Analyst: Data,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,PricewaterhouseCoopers,Experienced Associate/Tech Consultant,Chicago,IL,NA,NA,NA,NA,IT,consulting,NA
+2014,Permanent Resident,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Microsoft,Product Management,Seattle,WA,NA,NA,NA,NA,Other,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Palantir Technologies,Systems Analyst,San Francisco,CA,NA,NA,NA,NA,Network Admin,technology,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Apple,Information Technology Development Rotational Program,Cupertino,CA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Deloitte,Data Analytics Consultant,New York,NY,NA,NA,NA,NA,IT Analyst,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Deloitte,Security & Privacy Consultant,New York,NY,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Capital One,Software Engineer,NA,VA,NA,NA,NA,NA,NA,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,PNC,Business Systems Analyst,Pittsburgh,PA,NA,NA,NA,NA,Business Analyst,financial services,NA
+2014,Permanent Resident,United States,Male,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,Deloitte,Technology Consultant,Harrisburg,PA,NA,NA,NA,NA,IT Analyst,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,POLMGMT,S14,E,IBM,Associate Consultant,New York,NY,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Economics,ECO,S14,E,PricewaterhouseCoopers,Management Consultant,New York,NY,NA,Job Fair,41548,41579,Consulting:Management/Strategy,consulting,2
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,IBM,Commecial Sector Consulting,New York,NY,NA,NA,NA,NA,Management/Strat,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,General Electric,User Experience Leadership Program,San Ramon,CA,NA,NA,NA,NA,Design,consumer products,NA
+2014,Non-US Citizen,Canada,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S14,E,PricewaterhouseCoopers,Technology Consultant,San Francisco,CA,NA,NA,NA,NA,NA,consulting,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,H&SS Interdisciplinary,INFOSYS,S13,E,BNY Mellon,Senior Associate ITLDP,East Brunswick,NJ,NA,NA,NA,NA,Technical Analyst,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,Dietrich,Social & Decision Sciences,INTRELP,S14,E,Epic Systems,Project Manager,Madison,WI,NA,NA,NA,NA,Other,technology,NA
+2014,NA,NA,NA,BS,Dietrich,Economics,ECOSTA,S14,E,IBM,Associate Analyst,New York,NY,NA,Networking,41956,41986,Analyst: Data,consulting,3
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Economics,ECO,S14,E,IBM,GBS Public Sector SAP/Oracle Consultant,Washington,DC,NA,TartanTRAK,41579,41609,Consulting:IT,consulting,2
+2014,U.S. Citizen,United States,Female,BS,Dietrich,Social & Decision Sciences,DECSCI,S14,E,UPMC,Financial Analyst,Pittsburgh,PA,NA,NA,NA,NA,Financial Analyst,healthcare,NA
+2014,Non-US Citizen,China,Female,BS,Dietrich,Psychology,COGSCI,S14,E,Disney Research,HCI Research Assistant,Pittsburgh,PA,NA,NA,NA,NA,Researcher,arts & entertainment,NA
+2014,U.S. Citizen,United States,Female,BS,Dietrich,English,PW,S14,V,TBD,NA,Uganda,NA,NA,NA,NA,NA,NA,NA,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Physics,PHYAST,S14,E,Schlumberger,Geophysicist,Houston,TX,NA,TartanTrak,41732,41740,Geophysicist/data processing,energy,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Chemistry,CMY,S14,E,National Institutes of Health,Researcher,Bethesda,MD,NA,NA,NA,NA,Research,education,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Deutsche Bank,Technology Analyst,NA,NA,NA,TartanTRAK,NA,NA,Finance: Other,financial services,NA
+2014,Non-US Citizen,Singapore,Male,BS,MCS,Mathematical Sciences,COMPFIN,S14,E,Bank of America,Quantitative Management Associate,NA,NA,NA,NA,NA,NA,Finance: Other,financial services,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCORSTA,S14,E,Capital One,Software Engineer,McLean,VA,NA,Job Fair,41925,41925,Computer Science: Software Engineering,financial services,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,OCR,41632,41657,Computer Science: Software Development,retail,1
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSC,S14,E,UPMC,"Research Assistant, Sports Medicine Concussion Clinic",Pittsburgh,PA,NA,NA,NA,NA,Research,healthcare,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,E,IBM,"Consultant, Global Business Services",NA,NA,NA,NA,NA,NA,Consulting: Other,consulting,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCM,F13,E,Google,Software Engineer,Mountain View,CA,NA,NA,April,April,Computer Science: Software Engineering,technology,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSCPSY,S14,E,National Institutes of Health,Research Assistant,Bethesda,MD,NA,Advisor,NA,41705,Research,healthcare,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSCPSY,S14,E,Teach for America,Chemistry Teacher,New York,NY,NA,Networking,41925,41925,Social Services: Teaching,education,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,E,UPMC,Research Assistant,Pittsburgh,PA,NA,NA,NA,NA,Research,healthcare,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Epic Systems,Project Manager,Madison,WI,NA,Tartan TRAK,41713,41728,Information Systems,technology,1
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,E,National Institutes of Health,Research Assistant,Bethesda,MD,NA,NA,NA,NA,Research,education,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Mathematical Sciences,Mcsba,S14,E,Epic Systems,Software Developer,Verona,WI,NA,TartanTrak,41548,41593,Computer Science: Software Development,technology,2
+2014,U.S. Citizen,United States,Male,BS,MCS,Biological Sciences,BSCPSY,S14,E,Teach for America,Teacher,NA,NA,NA,NA,NA,NA,Social Services: Teaching,education,NA
+2014,Non-US Citizen,Taiwan,Female,BS,MCS,Chemistry,CMY,S14,E,UPMC,Research Associate,Pittsburgh,PA,NA,NA,NA,NA,Research,healthcare,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Chemistry,CMY,S14,E,Boeing,"Materials, Process, and Physics Engineer",North Charleston,SC,NA,NA,NA,NA,Engineering: Materials,manufacturing,NA
+2014,U.S. Citizen,United States,Male,BS,MCS,Mathematical Sciences,MSCDML,S14,E,Palantir Technologies,Deployed Product Engineer,New York,NY,NA,NA,NA,NA,Engineering: Other,technology,NA
+2014,U.S. Citizen,United States,Female,BS,MCS,Biological Sciences,BSC,S14,E,National Institutes of Health,Intramural Research Training Award Program,Bethesda,MD,NA,NA,NA,NA,Research,education,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,"TartanTRAK, Online Job Listing Site, & Hired from summer internship",41548,41579,Software Development,retail,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Developer,Seattle,WA,NA,Networking & Career Consultant,41579,41609,Software Development,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Apple,Software Enginer,Cupertino,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,Non-US Citizen,Other,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Engineer,Seattle,WA,NA,"Job Fair, Career Consultant & Networking",NA,NA,Software Engineering,retail,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Google,NA,NA,NA,NA,NA,NA,NA,NA,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Pittsburgh,PA,NA,Job Fair,41579,41609,Software Engineering,technology,5
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountian View,CA,NA,NA,41518,41548,Software Engineering,technology,2
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Palantir Technologies,Software Developer,Palo Alto,CA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,Permanent Resident,United States,Male,BS,SCS,Computer Science,CS,S14,E,Palantir Technologies,Forward Deployment Engineer,San Francisco,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,"Job Fair, Hired from Internship & Career Consultant",41518,41609,Software Development,retail,1
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Softeware Development Engineer,Seattle,WA,NA,Hired from summer internship,41487,41548,Software Engineering,technology,1
+2014,Permanent Resident,United States,Female,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,Networking,41518,41579,Software Development,retail,2
+2014,Non-US Citizen,Korea,Female,BS,SCS,Computer Science,CS,S14,E,LinkedIn,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Site Rehability Engineer,Pittsburgh,PA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,Non-US Citizen,China,Female,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Seattle,WA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,retail,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,Korea,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Engineer,Seattle,WA,NA,TartanTRAK,41913,41944,Software Engineering,retail,3
+2014,Non-US Citizen,Korea,Male,BS,SCS,Computer Science,CS,F13,E,Salesforce.com,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,F13,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Apple,Project Manager,Cupertino,CA,NA,NA,NA,NA,Product Development/Management,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,New York,NY,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,BlackRock,Financial Modeling Analyst,New York,NY,NA,NA,NA,NA,Financial Analysis,financial services,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Developer,Mountian View,CA,NA,Their website,41548,41579,Software Development,technology,1
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,F13,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,retail,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,retail,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Engineer,Seattle,WA,NA,Job Fair,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Facebook,Software Engineer,Menlo Park,CA,NA,Job Fair,41487,41548,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Palantir Technologies,Full Stack Engineer,San Francisco,CA,NA,Job Fair & Networking,41548,41579,Software Engineering,technology,9
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,retail,NA
+2014,U.S. Citizen,United States,Female,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S13,E,Google,Software Engineer,Mountian View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,San Bruno,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,Non-US Citizen,Thailand,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,Job Fair,41579,41609,Software Development,retail,2
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountian View,CA,NA,Job Fair,41518,41609,Software Engineering,technology,3
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Engineer,Seattle,WA,NA,Job Fair,41548,41548,Software Engineering,retail,3
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Deutsche Bank,Asset and Wealth Management Associate,New York,NY,NA,NA,NA,NA,Asset/Portfolio Management,financial services,NA
+2014,Non-US Citizen,China,Female,BS,SCS,Computer Science,CS,S14,E,Dropbox,Software Engineer,San Francisco,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,SDET I,Seattle,WA,NA,TartanTRAK,41487,41579,Software Engineering,technology,2
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Development Engineer in Test,Seattle,WA,NA,NA,NA,NA,Software Development,technology,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Development Engineer,Seattle,WA,NA,Hired from summer internship,NA,NA,Software Development,technology,NA
+2014,Permanent Resident,United States,Female,BS,SCS,Computer Science,CS,S14,E,Amazon,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,Software Development,retail,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Epic Systems,Software Developer,Madison,WI,NA,NA,NA,NA,Software Development,technology,NA
+2014,U.S. Citizen,United States,Male,BS,SCS,Computer Science,CS,S14,E,Facebook,Software Engineer,Menlo Park,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,Non-US Citizen,Singapore,Female,BS,SCS,Computer Science,CS,S14,E,Google,Software Engineer,Mountain View,CA,NA,NA,NA,NA,Software Engineering,technology,NA
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Development Engineer,Redmond,WA,NA,Hired from Summer Internship,41487,41487,Software Development,technology,1
+2014,Non-US Citizen,China,Male,BS,SCS,Computer Science,CS,S14,E,Microsoft,Software Development Engineer,Seattle,WA,NA,NA,NA,NA,NA,NA,NA
