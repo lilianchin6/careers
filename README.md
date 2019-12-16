@@ -10,7 +10,7 @@ Examples of some data that was collected:
 - Annual Salary
 - Job Title and Industry
 
-Note that there is some survey bias present as this was a voluntary survey where not all fields needed to be filled out. We especially see this effect in annual salary. In addition, we have more responses from STEM-heavy fields.
+Note that there is some survey bias present as this was a voluntary survey where not all fields needed to be filled out. We especially see this effect in annual salary. In addition, we have more responses from STEM-heavy fields. This app was created Spring 2017.
 
 # To run
 
